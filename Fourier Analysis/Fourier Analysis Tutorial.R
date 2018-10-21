@@ -1,0 +1,362 @@
+##############################################################################
+# Fourier Analysis - Time Series and Neural Networks
+##############################################################################
+
+# Set a working directory
+setwd("C:/Users/Derek/Documents/RPackages/Fourier Analysis")
+
+# Load the libraries
+
+library('ggplot2')
+library('nnet')
+library('gridBase')
+
+# install.packages("grid")
+
+# Load the csv file.
+
+orderts <- read.csv("C:/Users/Derek/Documents/RPackages/Fourier Analysis/orderts.csv")
+
+
+# Review the header.
+head(orderts)
+
+
+# Exploring the time series
+# let us compare the two full years 2009 and 2010 and the first quarter of 2011 
+
+
+
+qplot(week, orders, data = orderts, colour = as.factor(year), geom = "line")
+
+
+# It is apparent that there is quite much similarity between the two full years and the one full quarter we have data for; 
+# also, there seems to be a strong periodicity across the quarters. 
+# This suggests that there is an underlying structure in the data that can be used for forecasting. 
+# However, there seems to be a strange one week difference between the apparent peaks of the two full years.
+
+
+# A by-quarter histogram of the week values uncovers the cause quickly:
+
+
+qplot(week, data=orderts, colour=as.factor(year), binwidth=0.5) + facet_wrap(~ quarter)
+
+
+# There was one more business week in the first quarter of 2009 than in the first quarter of 2010 and 2011; consequently, there is a consistent one 
+# week difference between the last weeks of the quarters. However, 
+# due to the sudden surge of orders, from the business point of view this is exactly the week that counts the most.
+
+# The model building approaches we will use later can usually cope with such a one-week offset discrepancy; 
+# for quick and dirty data exploration here let's get simply rid of the 13-th week of 2009 Q1. 
+# Also, to support visualization we introduce a "week of current quarter" variable.
+
+orderts2 <- cbind(orderts[-13,], weekinq=c(1:117))
+prev <- orderts2[1,]
+runvar <- 1
+for(i in 2:nrow(orderts2)){
+  current <- orderts2[i,]
+  orderts2[i,"weekinq"] <- ifelse(prev$quarter == current$quarter, runvar+1, 1)
+  runvar <- ifelse(prev$quarter == current$quarter, runvar+1, 1)
+  prev <- current
+}
+rm(prev, current, runvar, i)
+
+##############################################################################
+
+# Let us compare the orders now on a quarter by quarter basis:
+
+
+qplot(weekinq, orders, data = orderts2, colour = as.factor(year), geom = "line") +
+  facet_wrap(~quarter)
+
+# These plots tell us the following:
+
+# At the very end of the quarter, there is always a significant spike in the orders; for Q3 and Q4, even the exact amounts are very close.
+# During the quarters, there is also significant similarity between the orders.
+# On the whole, the time series seems to be stationary and highly periodic; therefore, it should be worthwile to analyse its characteristics in the frequency domain.
+
+##############################################################################
+# Frequency Domain Observations
+##############################################################################
+
+# Visual inspection hinted at a strong periodicity in the time series at the quarter, half year and year intervals. In order to prove this suspicion, 
+# we now perform a brief power spectrum analysis of the first two years of the data.
+
+# 2011 Q1 is omitted here; we would like to look at full years to uncover possibly yearly periodicity. 
+# Also, this analysis will lead us to the training data for the forecasting approach and 2011 Q1 is kept back for testing purposes.
+
+
+# The following code performs the common Fast Fourier Transformation, extends the results with a frequency member index and plots 
+# the value of the complex modulus w.r.t. the frequency index. Note that the zero frequency component is omitted. 
+# Also, as the input signal is real-valued, it is symmetric in the remaining frequencies; therefore, only the lower half of the spectrum is plotted.
+
+
+
+f <- data.frame(coef = fft(orderts2[1:104, "orders"]), freqindex = c(1:104))
+qplot(freqindex, Mod(coef), data = f[2:53,], geom = "line")
+
+# qplot(freqindex, Mod(coef), data = f2[2:53,], geom = "line")
+
+# This results in the following "power spectrum" plot that uses the complex modulus to measure "magnitude":
+
+# It is apparent that a number of frequencies have significantly higher amplitude than the others, 
+# hinting at a strong underlying periodic nature in the data. Let's identify these peaks:
+
+
+f[Mod(f$coef) > 3 & f$freqindex < 53, "freqindex"] - 1
+
+# The Result: 0  8 16 24 32 40 48
+
+
+# What we see is that a component with the frequency of 8 / 104 (2 * 4 quarters in the two years) 
+# and its harmonics (note the exactly 8 difference between the peaks) seem to dominate the signal. 
+# However, these frequencies alone are insufficient to capture the time series to the precision we would like to. 
+
+# To demonstrate this, the following code segment eliminates the frequencies with "small magnitude" in a copy of the Fourier transform. The remaining ones are 
+# transformed back to the time domain (an inverse FFT call) in order to be compared to the original time series.
+
+peaks <- Mod(f$coef) > 3
+ffilt <- f
+ffilt[!peaks, "coef"] <- 0
+ffilt <- data.frame(index=ffilt$freqindex, value=Re(fft(ffilt$coef, inverse=TRUE))/104, type=rep("filtered", times=104))
+ffilt <- rbind(ffilt, data.frame(index=seq(1:104), value=orderts2[1:104,"orders"], type=rep("original", times=104)))
+
+
+
+
+##############################################################################
+# Forecasting Approach
+##############################################################################
+
+
+# The signal we deal with shows strong regularity, but is at the same time highly complex (and decidedly nonlinear). 
+# Therefore, for forecasting purposes we split it into simpler periodic time series and train neural networks for the 
+# finite time window forecasting of each simplified component. 
+# The "splitting" is based on a non-overlapping partitioning of the frequency domain.
+
+# Our prediction approach is the following. "New" time series data is concatenated to the training set as it becomes available. 
+# This new, extended time series is again split with the same band-pass filtering utilized for the training data. 
+# The new simplified time series set (the elements of which are extended with the images of the new observations) is used to exercise the corresponding forecasting neural network. 
+# The order forecast for the unsplit signal is reached by summing the outputs of the component-forecasting neural networks.
+
+##############################################################################
+# Signal decomposition for training and forecasting
+
+
+# We split the frequency domain of the time series into intervals so that each interval 
+# contains either the fundamental frequency of the strong periodic signal or one harmonic of it. 
+# This is effectively a band-pass filtering based decomposition:
+
+midindex <- ceiling((length(f$coef)-1)/ 2) + 1
+lindex <- length(f$coef)
+peakind <- f[abs(f$coef) > 3 & f$freqindex > 1 & f$freqindex < midindex,]
+
+
+lowerind <- 1
+
+subsignals <- lapply(c(peakind$freqindex, midindex+1), function(x){
+  upperind <- x
+  fsub <- f
+  notnullind <- ((fsub$freqindex >= lowerind
+                  & fsub$freqindex < upperind)
+                 |
+                   (fsub$freqindex >  (lindex - upperind + 2)
+                    & fsub$freqindex <= (lindex - lowerind + 2)))
+  fsub[!notnullind,"coef"] <- 0
+  lowerind <<- upperind
+  Re(fft(fsub$coef, inverse=TRUE)/length(fsub$coef))
+})
+
+# The code produces the time series signals belonging to the harmonics-defined frequency bands. 
+# For the above two year time series and harmonic set, this produces the following decomposition in the time domain:
+
+grid.newpage()
+pushViewport(viewport(layout=grid.layout(4,2)))
+
+vplayout <- function(x,y)
+  viewport(layout.pos.row = x, layout.pos.col = y)
+
+psig <- function(x, y, z){
+  h <- data.frame(index = c(1:length(subsignals[[x]])),
+                  orders = subsignals[[x]])
+  lab <- paste("Subseries ", as.character(x), sep="")
+  print(qplot(index, orders, data = h, geom = "line", main=lab), vp = vplayout(y,z))
+  TRUE
+}
+
+psig(1,1,1); psig(2,1,2); psig(3,2,1); psig(4,2,2); psig(5,3,1); psig(6,3,2); psig(7,4,1)
+
+
+##############################################################################
+# Neural Network Training
+##############################################################################
+
+# We use the "Multilayer Perceptron" (MLP) feedforward artificial neural network model to map a 
+# finite time window of order observations onto predictions about the orders that can be expected in the future. 
+
+# We preferred nonlinear modeling against linear predictors, since we assumed the latter one could not catch the information underlying our data.
+
+
+# We will have a number of neural networks, each one responsible for learning and predicting a frequency band of the original. 
+# We assume that "cutting up" the original signal by using frequency bands results in sub-signals that are fundamentally easier to predict. 
+# (Note that in the following, we work with a slightly different time series of 105 observations and the main frequency/harmonics 9,17,25,33,41,49,50 in the Fourier series.)
+
+# The number of hidden neurons was selected by trial-and-error. As the prediction of the decomposed signals is not a complicated task, 
+# simple networks, i.e. a few hidden neurons, suffice. The final neuron numbers were selected as follows:
+
+# number of hidden neurons
+
+nn.sizes <- c(4,2,3,3,3,2,2,2)
+
+# One additional parameter has to be chosen: the size of the time window used for prediction. This was not used directly by the networks, as we use static networks. 
+# This setting determines how the time series has to be transformed so it can be used as the input of the network. 
+# The width of the time window was chosen to be 4 for all time series. 
+# Alas, this means that we have to bring our data into a form amenable for neural network training - as the neural networks learn 4-tuples of observations (x(t), x(t-1), x(t-2), x(t-3)), 
+# we have to have the multiple time-shifted versions of each component signal ready:
+
+numofsubs <- length(subsignals)
+twindow <- 4
+
+offsettedsubdfs <- lapply(1:numofsubs, function(x){
+  singleoffsets <- lapply(0:(twindow-1), function(y){
+    subsignals[[x]][(twindow-y):(length(subsignals[[x]])-y-1)]
+  })
+  a <- Reduce(cbind, singleoffsets)
+  names <- lapply(1:twindow, function(y){paste("TS", as.character(x), "_", as.character(y), sep = "")})
+  b <- as.data.frame(a)
+  colnames(b) <- names
+  b
+})
+
+# For later use we calculate the number of samples in our dataset.
+
+sample.number <- length(offsettedsubdfs[[1]][,1])
+
+
+# After this, we use the input to actually train the neural networks.
+
+#the neural networks
+
+nns <- lapply(1:length(offsettedsubdfs), function(i)
+  
+{
+  
+  nn <- nnet(offsettedsubdfs[[i]][1:(sample.number),], #the training samples
+             
+             subsignals[[i]][(twindow+1):(length(subsignals[[i]]))], #the output
+             
+             #corresponding to the training samples
+             
+             size=nn.sizes[i], #number of neurons
+             
+             maxit = 1000, #number of maximum iteration
+             
+             linout = TRUE) #the neuron in the output layer should be linear
+  
+  #the result of the trained networks should be plotted
+  
+  plot(subsignals[[i]][(twindow+1):(length(subsignals[[i]]))], type="l")
+  
+  lines(nn$fitted.values,type="l",col="red")
+  
+  nn
+  
+})
+
+# The results of the neural network trainings for the different decomposed signals can be seen on the figure below.
+
+# The red line is the response of the network, and the black is the original time series. All training data fits well, 
+# and the response of the neural networks at the training samples is accurate. The MSE (mean square error) for all training data is smaller than 10^(-5).
+
+# Now we have a set of neural network predictors that each have learned a "part" of the original signal - an quite well to that. 
+# And as the Fourier-transform is a linear operation, the sum of the individual predictions will give the full time series prediction back.
+
+##############################################################################
+# Forecasting
+##############################################################################
+
+# At this point we have a composite predictor that is able to predict the order amount for the first week of 2011. 
+# Actually, it is able to predict any week of the year - provided that the observations for the previous weeks are available. We have to simply augment the historical data, 
+# split it into component time series signals for the individual neural networks based on the earlier defined frequency bands, 
+# excercise the individual networks with the new component time series and sum up the prediction results. 
+# This is effectively a short-term prediction of the order time series.
+
+
+# We are also able to produce mid- and long-term predictions. In this case we predict one week, use the result of the 
+# prediction to augment the historical data and then excercise the predictor with this new input again. 
+# Theoretically, this feedback strategy can be used to predict to arbitrarily long horizons in the future.
+
+# We have mentioned earlier that we have used only the first 8 quarters as training data. 
+# Now we will use the data for the last, ninth quarter to check how well we can predict with a one quarter horizon:
+
+
+number.of.predict <- 14
+
+#long term prediction
+
+long.predictions <- lapply(1:length(offsettedsubdfs), function(i)
+  
+{
+  
+  prediction <- vector(length=number.of.predict, mode="numeric")
+  
+  #initial input
+  
+  input <- offsettedsubdfs[[i]][sample.number,]
+  
+  for (j in 1 : number.of.predict)
+    
+  {
+    
+    prediction[j] <- predict(nns[[i]], input)
+    
+    input <- c(prediction[j],input[1:(length(input)-1)])
+    
+  }
+  
+  #we want to plot the prediction
+  
+  plot(c(nns[[i]]$fitted.values,prediction), type="l",col="red")
+  
+  lines(subsignals[[i]][(twindow+1):length(subsignals[[i]])])
+  
+  prediction
+  
+})
+
+# We can draw the forecast from the training samples. The corresponding figure can be seen below.
+
+
+# The results of the predictions are plausible. However the most interesting part is the prediction of the original time series. 
+# So we have to sum up the signals which can be seen on the figure above. This is on the next figure.
+
+# Here the error is calculated as the RMSE (Root Mean Square Error) for the predicted time series; its value is 0.08.
+
+
+# However, beside the comparison of the original and predicted data, we may want to know, what kind of data should be predicted by the single neural networks, 
+# thus what kind of forecast would result in a perfect prediction. This could be examined or at least approximated with the following method. 
+# First we plot the decomposed signal calculated from the first 8 quarter, than we plot the trained signals, as it was predicted by the networks, 
+# and then we plot the decomposed signals as if we have used the full 9 quarter. This can be seen on the figure below.
+
+# It is easy to see that those signals were predicted more accurately where the signal was periodic, and those signals had the highest errors where the trend was dominant, which are the first and the second signals. 
+# The training signals are black, the trained and predicted signals are red and blue are the signals that would have belonged to a perfect prediction.
+
+
+##############################################################################
+# Application in the industrial context
+##############################################################################
+
+# The predictors extracted from historical data can well support production scheduling and smoothing the production processes. 
+# Initially, at the beginning of a quarter production can generate assets according to the predicted volume and composition of the features in the orders. 
+# As the number of the incoming orders increases with the progress of time, 
+# priority can be given to the definite orders and the slack production capacity can be used to compensate the difference between the predicted and 
+# already defined order volume. In the final phase of a quarter only orders are processed. 
+
+# This simple logic fits well into any optimization approach by assigning a gradually decreasing importance to the predictor (decreasing weight). 
+# The impact from the point of view of production is that pre-manufacturing generates enough assets of products fitting to the composition of the later 
+# orders to fulfill them from the store during the week load at the end of the quarter. 
+# This way, the utilization of manufacturing capabilities can remain at a nearly constant level.
+
+mydata <- as.data.frame(long.predictions)
+write.csv(mydata, file='C:/Users/Derek/Documents/RPackages/Fourier Analysis/FFTResults.csv', row.names=F)
+
