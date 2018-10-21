@@ -1,0 +1,403 @@
+beer_id,beer_name,beer_style,brewery,review_profilename,review_overall,review_aroma,review_palate,review_taste,beer_abv
+1,Abbey Monks Ale,Belgian Ale,Abbey Beverage Company,D.Kane,50,49,51,47,5.2
+2,Abbey Monks Tripel,Abbey Tripel,Abbey Beverage Company,D.Kane,NA,NA,NA,NA,8
+3,Abbey Monks Wit,Belgian White (Witbier),Abbey Beverage Company,D.Kane,23,19,21,17,5.1
+4,Alameda Barn Owl Imperial Brown Ale,Brown Ale,Alameda Brewing Co.,D.Kane,74,81,83,79,7.9
+5,Alameda Black Bear XX Stout,Foreign Stout,Alameda Brewing Co.,D.Kane,94,76,78,74,6.8
+5,Alameda Black Bear XX Stout,Foreign Stout,Alameda Brewing Co.,S.Cooper,92,77,84,69,6.8
+6,Alameda El Torero Organic IPA,India Pale Ale (IPA),Alameda Brewing Co.,D.Kane,74,43,45,41,7.2
+7,Alameda Huckleberry Hound,Fruit Beer,Alameda Brewing Co.,D.Kane,NA,NA,NA,NA,6.5
+8,Alameda Klickitat Pale Ale,American Pale Ale,Alameda Brewing Co.,D.Kane,75,67,69,65,5.3
+9,Alameda Papa Noels Olde Ale,Old Ale,Alameda Brewing Co.,D.Kane,87,70,72,68,7.2
+10,Alameda Yellow Wolf Imperial IPA,Imperial/Double IPA,Alameda Brewing Co.,D.Kane,95,64,66,62,8.2
+11,Ale Industries Fall Down Brown,Spice/Herb/Vegetable,Ale Industries,D.Kane,NA,NA,NA,NA,8.25
+12,Ale Industries Orange Shush,Belgian White (Witbier),Ale Industries,D.Kane,NA,NA,NA,NA,4.4
+13,Ale Industries Ryed Piper,Specialty Grain,Ale Industries,D.Kane,93,96,98,94,5.75
+14,American Brewing American Blonde,Golden Ale/Blond Ale,American Brewing Company,D.Kane,44,60,62,58,4.5
+15,American Brewing Breakaway IPA,India Pale Ale (IPA),American Brewing Company,D.Kane,93,86,88,84,7.2
+16,American Brewing Caboose Oatmeal Stout,Sweet Stout,American Brewing Company,D.Kane,91,81,83,79,7
+17,Appalachian 666,English Strong Ale,Appalachian Brewing Company (PA),D.Kane,82,85,87,83,7.7
+17,Appalachian 666,English Strong Ale,Appalachian Brewing Company (PA),L.Hofstader,90,90,83,87,7.7
+18,Appalachian Broad Street Barley Wine,Barley Wine,Appalachian Brewing Company (PA),D.Kane,97,86,88,84,12.8
+19,Appalachian Grinnin Grizzly,Spice/Herb/Vegetable,Appalachian Brewing Company (PA),D.Kane,33,37,39,35,5.7
+20,Appalachian Hoppy Trails IPA,India Pale Ale (IPA),Appalachian Brewing Company (PA),D.Kane,73,42,44,40,6.2
+21,Appalachian Jolly Scot Scottish Ale,Scottish Ale,Appalachian Brewing Company (PA),D.Kane,50,47,49,45,5.2
+22,Appalachian Kipona Fest,Oktoberfest/Märzen,Appalachian Brewing Company (PA),D.Kane,49,76,78,74,5.2
+23,Appalachian Mountain Lager,Dortmunder/Helles,Appalachian Brewing Company (PA),D.Kane,20,25,27,23,4.5
+24,Appalachian Outta Focus,Imperial/Double IPA,Appalachian Brewing Company (PA),D.Kane,78,24,26,22,8
+25,Appalachian Peregrine Pilsner,Bohemian Pilsener,Appalachian Brewing Company (PA),D.Kane,39,54,56,52,4.8
+26,Appalachian Purist Pale Ale,American Pale Ale,Appalachian Brewing Company (PA),D.Kane,46,33,35,31,4.9
+27,Appalachian Susquehanna Stout,Dry Stout,Appalachian Brewing Company (PA),D.Kane,89,95,97,93,4.6
+28,Appalachian Trail Blaze Organic Brown,Brown Ale,Appalachian Brewing Company (PA),D.Kane,46,44,46,42,0
+29,Appalachian Volks Weizenbock,Weizen Bock,Appalachian Brewing Company (PA),D.Kane,72,48,50,46,7.2
+30,Appalachian Water Gap Wheat,Wheat Ale,Appalachian Brewing Company (PA),D.Kane,18,20,22,18,4.5
+31,Bent River Mississippi Blonde,Golden Ale/Blond Ale,Bent River Brewing Company,D.Kane,12,6,8,4,4.29
+32,Bent River Uncommon Stout,Sweet Stout,Bent River Brewing Company,D.Kane,97,96,98,94,6.5
+33,Bison Organic Chocolate Stout,Stout,Bison Brewing Company,D.Kane,91,89,91,87,6.1
+34,Bison Organic Gingerbread Ale,Spice/Herb/Vegetable,Bison Brewing Company,D.Kane,73,83,85,81,6
+35,Bison Organic Honey Basil,Spice/Herb/Vegetable,Bison Brewing Company,D.Kane,57,68,70,66,6
+36,Bison Organic Imperial Brown,Brown Ale,Bison Brewing Company,D.Kane,71,76,78,74,7
+37,Bison Organic IPA,India Pale Ale (IPA),Bison Brewing Company,D.Kane,60,30,32,28,6.8
+38,Bison Organic Pumpkin Ale,Spice/Herb/Vegetable,Bison Brewing Company,D.Kane,29,32,34,30,0
+39,Blue Mountain Isabel Bourbon Aged Robust Porter,Porter,Blue Mountain Brewery,D.Kane,76,50,52,48,6
+40,Blue Mountain Local Species,Belgian Ale,Blue Mountain Brewery,D.Kane,95,98,100,96,6.6
+41,Blue Mountain Mandolin (Barrel House),Bière de Garde,Blue Mountain Brewery,D.Kane,85,89,91,87,9
+42,Blue Mountain Rockfish Wheat Hefeweizen,German Hefeweizen,Blue Mountain Brewery,D.Kane,74,95,97,93,5.4
+43,Blue Mountain Steel Wheels ESB,Premium Bitter/ESB,Blue Mountain Brewery,D.Kane,76,90,92,88,6.5
+44,Blue Mountain ÜberPils Imperial Pilsener,Strong Pale Lager/Imperial Pils,Blue Mountain Brewery,D.Kane,84,93,95,91,7.6
+45,Blue Point Blueberry Ale,Fruit Beer,Blue Point Brewing,D.Kane,49,85,87,83,4.6
+46,Blue Point Hoptical Illusion,India Pale Ale (IPA),Blue Point Brewing,D.Kane,90,78,80,76,6.8
+47,Blue Point No Apologies Imperial IPA,Imperial/Double IPA,Blue Point Brewing,D.Kane,93,52,54,50,10
+48,Blue Point Oatmeal Stout,Sweet Stout,Blue Point Brewing,D.Kane,88,72,74,70,5.2
+49,Blue Point Oktoberfest,Oktoberfest/Märzen,Blue Point Brewing,D.Kane,49,76,78,74,5.5
+50,Blue Point Old Howling Bastard,Barley Wine,Blue Point Brewing,D.Kane,88,47,49,45,10
+51,Blue Point Pale Ale,American Pale Ale,Blue Point Brewing,D.Kane,81,77,79,75,4.6
+52,Blue Point Pumpkin Ale,Spice/Herb/Vegetable,Blue Point Brewing,D.Kane,47,52,54,50,6
+53,Blue Point Rastafa Rye Ale,Specialty Grain,Blue Point Brewing,D.Kane,85,91,93,89,7.5
+54,Blue Point Spring Fling,Amber Ale,Blue Point Brewing,D.Kane,46,55,57,53,5.2
+55,Blue Point Summer Ale,Golden Ale/Blond Ale,Blue Point Brewing,D.Kane,26,28,30,26,4.39
+56,Blue Point Toasted Lager,Vienna,Blue Point Brewing,D.Kane,59,93,95,91,5.5
+57,Blue Point Winter Ale,Amber Ale,Blue Point Brewing,D.Kane,54,75,77,73,7
+58,Boxcar Brown Ale,Brown Ale,Boxcar Brewing Company,D.Kane,33,23,25,21,5
+59,Boxcar Mango Ginger India Pale Ale,India Pale Ale (IPA),Boxcar Brewing Company,D.Kane,19,1,3,0,7
+60,Boxcar Original Ale,American Pale Ale,Boxcar Brewing Company,D.Kane,18,3,5,1,5
+61,Brewers Alley 1634 Ale,Specialty Grain,Brewers Alley Restaurant & Brewery,D.Kane,51,53,55,51,5.1
+62,Brewers Alley IPA,India Pale Ale (IPA),Brewers Alley Restaurant & Brewery,D.Kane,58,28,30,26,5.8
+63,Brewers Alley Kölsch,Kölsch,Brewers Alley Restaurant & Brewery,D.Kane,62,93,95,91,5
+64,Brewers Alley Wedding Alt,Altbier,Brewers Alley Restaurant & Brewery,D.Kane,63,66,68,64,4.6
+65,Carolina IPA,India Pale Ale (IPA),Carolina Brewing Company,D.Kane,70,39,41,37,5.9
+66,Carolina Nut Brown Ale,Brown Ale,Carolina Brewing Company,D.Kane,79,87,89,85,4.7
+67,Carolina Oktoberfest Lager,Oktoberfest/Märzen,Carolina Brewing Company,D.Kane,65,91,93,89,5.6
+68,Carolina Pale Ale,English Pale Ale,Carolina Brewing Company,D.Kane,37,43,45,41,5.6
+69,Carolina Winter Porter,Porter,Carolina Brewing Company,D.Kane,57,34,36,32,5.2
+70,Cavalry Brewing Big Wally Porter,Porter,Cavalry Brewing Company,D.Kane,NA,NA,NA,NA,4.8
+71,Cavalry Brewing Dog Soldier Golden Ale,Golden Ale/Blond Ale,Cavalry Brewing Company,D.Kane,39,48,50,46,4
+72,Cavalry Brewing Hatch Plug Ale,English Pale Ale,Cavalry Brewing Company,D.Kane,23,24,26,22,4.5
+73,Cavalry Brewing Marauder IPA,India Pale Ale (IPA),Cavalry Brewing Company,D.Kane,30,4,6,2,0
+74,Cavalry Brewing Nomad Stout,Dry Stout,Cavalry Brewing Company,D.Kane,43,17,19,15,4.2
+75,Colorado Cider Grasshop-ah,Cider,Colorado Cider Co.,D.Kane,73,93,95,91,6.95
+76,Colorado Cider Pome Mel,Cider,Colorado Cider Co.,D.Kane,NA,NA,NA,NA,6.5
+77,Glider Cider,Cider,Colorado Cider Co.,D.Kane,46,69,71,67,6.95
+78,Glider Cider - Dry,Cider,Colorado Cider Co.,D.Kane,NA,NA,NA,NA,6.95
+79,Crow Peak Canyon Cream Ale,Cream Ale,Crow Peak Brewing Company,D.Kane,25,37,39,35,5
+80,Crow Peak Eleventh Hour IPA,India Pale Ale (IPA),Crow Peak Brewing Company,D.Kane,59,29,31,27,6.5
+81,Crow Peak Pile ODirt Porter,Porter,Crow Peak Brewing Company,D.Kane,79,59,61,57,6.9
+82,Devils Backbone Eight Point IPA,India Pale Ale (IPA),Devils Backbone Brewing Company,D.Kane,92,83,85,81,5.9
+83,Devils Backbone Vienna Lager,Vienna,Devils Backbone Brewing Company,D.Kane,49,90,92,88,4.9
+84,Devils Canyon Bourbon Barrel Full Boar Scotch Ale,Scotch Ale,Devils Canyon Brewing Co.,D.Kane,69,39,41,37,9.1
+85,Devils Canyon California Sunshine IPA,India Pale Ale (IPA),Devils Canyon Brewing Co.,D.Kane,77,46,48,44,7.1
+86,Devils Canyon Full Boar Scotch Ale,Scotch Ale,Devils Canyon Brewing Co.,D.Kane,82,53,55,51,7.4
+87,Devils Canyon Thomas Morgan Amber Ale,Amber Ale,Devils Canyon Brewing Co.,D.Kane,45,52,54,50,0
+88,Diamond Knot Blonde Ale,Golden Ale/Blond Ale,Diamond Knot Brewery,D.Kane,42,54,56,52,4.2
+89,Diamond Knot Brown Ale,Brown Ale,Diamond Knot Brewery,D.Kane,51,51,53,49,6
+90,Diamond Knot Ho!Ho! Winter,Spice/Herb/Vegetable,Diamond Knot Brewery,D.Kane,83,91,93,89,8.5
+91,Diamond Knot India Pale Ale,India Pale Ale (IPA),Diamond Knot Brewery,D.Kane,97,97,99,95,6.2
+92,Diamond Knot Industrial India Pale Ale,Imperial/Double IPA,Diamond Knot Brewery,D.Kane,97,81,83,79,7.9
+93,Diamond Knot Slanes Irish Ale,Irish Ale,Diamond Knot Brewery,D.Kane,68,93,95,91,6.6
+94,Diamond Knot Vienna Style Ale,Vienna,Diamond Knot Brewery,D.Kane,40,74,76,72,5.8
+95,Diamond Knot Whip Ale,American Pale Ale,Diamond Knot Brewery,D.Kane,77,70,72,68,6
+96,Dicks Best Bitter,Premium Bitter/ESB,Dicks Brewing Company,D.Kane,77,87,89,85,5.6
+97,Dicks Cream Stout,Sweet Stout,Dicks Brewing Company,D.Kane,92,85,87,83,6.25
+98,Dicks Danger Ale,Brown Ale,Dicks Brewing Company,D.Kane,55,57,59,55,5.6
+99,Dicks Double Danger Ale,American Strong Ale,Dicks Brewing Company,D.Kane,82,37,39,35,8.5
+100,Dicks Double Diamond Winter Ale,American Strong Ale,Dicks Brewing Company,D.Kane,93,59,61,57,8.5
+101,Dicks Imperial IPA,Imperial/Double IPA,Dicks Brewing Company,D.Kane,76,21,23,19,8.6
+102,Dicks Imperial Red,American Strong Ale,Dicks Brewing Company,D.Kane,85,42,44,40,8
+103,Dicks IPA,India Pale Ale (IPA),Dicks Brewing Company,D.Kane,77,45,47,43,6
+104,Dicks Lava Rock Porter,Porter,Dicks Brewing Company,D.Kane,76,52,54,50,7
+105,Dicks Pale Ale,American Pale Ale,Dicks Brewing Company,D.Kane,46,33,35,31,5
+106,Dicks Scottish Style Ale,Scottish Ale,Dicks Brewing Company,D.Kane,78,88,90,86,8
+107,Dicks Working Mans Brown Ale,Brown Ale,Dicks Brewing Company,D.Kane,46,43,45,41,5.5
+108,Dry Dock Hefeweizen (U-Boat),German Hefeweizen,Dry Dock Brewing Co.,D.Kane,85,98,100,96,4.3
+109,Dry Dock Seven Seas Double IPA,Imperial/Double IPA,Dry Dock Brewing Co.,D.Kane,97,77,79,75,9
+110,Dry Dock Vanilla Porter (URCA),Porter,Dry Dock Brewing Co.,D.Kane,91,89,91,87,5.4
+111,DuClaw Double Naked Fish,Imperial Stout,DuClaw Brewing Company,D.Kane,91,35,37,33,7.6
+112,DuClaw Double Spiced 31,Spice/Herb/Vegetable,DuClaw Brewing Company,D.Kane,48,54,56,52,5.2
+113,DuClaw Euforia (Euphoria),Brown Ale,DuClaw Brewing Company,D.Kane,83,90,92,88,5
+114,DuClaw Hellrazer,India Pale Ale (IPA),DuClaw Brewing Company,D.Kane,84,59,61,57,7.5
+115,DuClaw Mysterium,Belgian Ale,DuClaw Brewing Company,D.Kane,71,76,78,74,5
+116,DuClaw Serum,Imperial/Double IPA,DuClaw Brewing Company,D.Kane,94,53,55,51,9
+117,DuClaw Venom Pale Ale,American Pale Ale,DuClaw Brewing Company,D.Kane,94,97,99,95,5.6
+118,Eddyline Boater Beer Pils,Pilsener,Eddyline Restaurant and Brewery,D.Kane,19,46,48,44,4.5
+119,Eddyline Crank Yanker Epic IPA,India Pale Ale (IPA),Eddyline Restaurant and Brewery,D.Kane,48,17,19,15,7.5
+120,Eddyline InnerGlow Red Chile Porter,Spice/Herb/Vegetable,Eddyline Restaurant and Brewery,D.Kane,35,40,42,38,7
+121,Eddyline Pumpkin Patch Pale Ale,Spice/Herb/Vegetable,Eddyline Restaurant and Brewery,D.Kane,66,77,79,75,0
+122,Eddyline Raspberry Wheat,Fruit Beer,Eddyline Restaurant and Brewery,D.Kane,NA,NA,NA,NA,0
+123,Elevation Signal De Botrange,Belgian Ale,Elevation Beer Company,D.Kane,80,87,89,85,7.5
+124,Elysian 12 Beers of Apocalypse #10 - Omen Belgian Raspberry Stout,Fruit Beer,Elysian Brewing Co.,D.Kane,92,98,100,96,7.2
+125,Elysian 12 Beers of Apocalypse #11 - Mortis: Sour Persimmon Ale,Sour Ale/Wild Ale,Elysian Brewing Co.,D.Kane,79,28,30,26,7.25
+126,Elysian 12 Beers of Apocalypse #4 - Peste Chocolate Chili Ale,Spice/Herb/Vegetable,Elysian Brewing Co.,D.Kane,75,85,87,83,7.5
+127,Elysian 12 Beers of Apocalypse #9 - Blight Pumpkin Ale,Spice/Herb/Vegetable,Elysian Brewing Co.,D.Kane,81,90,92,88,7.4
+128,Elysian Avatar Jasmine IPA,India Pale Ale (IPA),Elysian Brewing Co.,D.Kane,87,68,70,66,6.3
+129,Elysian Bête Blanche Belgian Tripel (2011),Abbey Tripel,Elysian Brewing Co.,D.Kane,87,77,79,75,7.5
+130,Elysian Bifröst Winter Ale,American Strong Ale,Elysian Brewing Co.,D.Kane,91,57,59,55,7.5
+131,Elysian Dark O The Moon Pumpkin Stout,Spice/Herb/Vegetable,Elysian Brewing Co.,D.Kane,98,99,100,97,6.5
+132,Elysian Dragonstooth Stout,Foreign Stout,Elysian Brewing Co.,D.Kane,99,99,100,97,7.5
+133,Elysian Hansel & Gretel Ginger Pumpkin Pilsner,Spice/Herb/Vegetable,Elysian Brewing Co.,D.Kane,66,77,79,75,4.5
+134,Elysian Loser Pale Ale,American Pale Ale,Elysian Brewing Co.,D.Kane,78,73,75,71,7
+135,Elysian Mens Room Original Red,American Pale Ale,Elysian Brewing Co.,D.Kane,70,56,58,54,5.6
+136,Elysian Night Owl Pumpkin Ale,Spice/Herb/Vegetable,Elysian Brewing Co.,D.Kane,91,96,98,94,5.9
+137,Elysian Prometheus Stolen Fire IPA,India Pale Ale (IPA),Elysian Brewing Co.,D.Kane,95,91,93,89,6.7
+138,Elysian Split Shot,Sweet Stout,Elysian Brewing Co.,D.Kane,92,85,87,83,5.6
+139,Elysian The Great Pumpkin Imperial Pumpkin Ale,Spice/Herb/Vegetable,Elysian Brewing Co.,D.Kane,96,99,100,97,8.1
+140,Elysian The Immortal IPA,India Pale Ale (IPA),Elysian Brewing Co.,D.Kane,92,82,84,80,6.3
+141,Erie Brewing Derailed Black Cherry Ale,Fruit Beer,Erie Brewing Company,D.Kane,36,65,67,63,5
+142,Erie Brewing Drakes Crude Oatmeal Stout,Sweet Stout,Erie Brewing Company,D.Kane,78,47,49,45,6.9
+143,Erie Brewing Fallenbock,Doppelbock,Erie Brewing Company,D.Kane,43,20,22,18,7.8
+144,Erie Brewing Golden Fleece Maibock,Heller Bock,Erie Brewing Company,D.Kane,51,64,66,62,8.5
+145,Erie Brewing Heritage Alt,Altbier,Erie Brewing Company,D.Kane,79,89,91,87,5.4
+146,Erie Brewing Mad Anthonys Pale Ale,American Pale Ale,Erie Brewing Company,D.Kane,37,18,20,16,5.5
+147,Erie Brewing Misery Bay IPA,India Pale Ale (IPA),Erie Brewing Company,D.Kane,44,12,14,10,6.5
+148,Erie Brewing Ol Red Cease & Desist Scottish Ale,Scotch Ale,Erie Brewing Company,D.Kane,76,45,47,43,10.1
+149,Erie Brewing Presque Isle Pilsner,Bohemian Pilsener,Erie Brewing Company,D.Kane,19,22,24,20,4
+150,Erie Brewing Railbender Ale,Scottish Ale,Erie Brewing Company,D.Kane,36,18,20,16,6.8
+151,Evil Genius Evil Eye PA,India Pale Ale (IPA),Evil Genius Beer Company,D.Kane,41,10,12,8,6
+152,Evil Genius Good n Evil,Kölsch,Evil Genius Beer Company,D.Kane,27,32,34,30,4.5
+153,Evil Genius Pumplestiltskin,Golden Ale/Blond Ale,Evil Genius Beer Company,D.Kane,NA,NA,NA,NA,4.7
+154,Evil Genius Trick or Treat,Spice/Herb/Vegetable,Evil Genius Beer Company,D.Kane,48,55,57,53,5.6
+155,Figure Eight First Ascent,Pale Lager,Figure Eight Brewing LLC,D.Kane,NA,NA,NA,NA,0
+156,Figure Eight Lost Saint,Saison,Figure Eight Brewing LLC,D.Kane,NA,NA,NA,NA,8.5
+157,Figure Eight Offwidth,Imperial/Double IPA,Figure Eight Brewing LLC,D.Kane,NA,NA,NA,NA,8.3
+158,Figure Eight Ro Shampo,American Strong Ale,Figure Eight Brewing LLC,D.Kane,55,13,15,11,7.5
+159,Figure Eight Snake Pro Double IPA,Imperial/Double IPA,Figure Eight Brewing LLC,D.Kane,48,5,7,3,8
+160,Figure Eight Where Lizards Dare,India Pale Ale (IPA),Figure Eight Brewing LLC,D.Kane,51,22,24,20,4
+161,Flat 12 Amber Ale,Amber Ale,Flat 12 Bierwerks,D.Kane,73,90,92,88,5.8
+162,Flat 12 Cucumber Kolsch,Fruit Beer,Flat 12 Bierwerks,D.Kane,NA,NA,NA,NA,0
+163,Flat 12 Flat Jack Pumpkin Ale,Spice/Herb/Vegetable,Flat 12 Bierwerks,D.Kane,76,85,87,83,5.7
+164,Flat 12 Half Cycle IPA,India Pale Ale (IPA),Flat 12 Bierwerks,D.Kane,91,81,83,79,6
+165,Flat 12 Lacto-Matic Milk Stout,Sweet Stout,Flat 12 Bierwerks,D.Kane,66,40,42,38,5
+166,Flat 12 Nunmoere Black ABA,Black IPA,Flat 12 Bierwerks,D.Kane,NA,NA,NA,NA,6
+167,Flat 12 Pogues Run Porter,Porter,Flat 12 Bierwerks,D.Kane,90,87,89,85,5.5
+168,Fort Collins 1900 Amber Lager,Premium Lager,Fort Collins Brewery,D.Kane,42,87,89,85,4.5
+169,Fort Collins Chocolate Stout,Stout,Fort Collins Brewery,D.Kane,78,59,61,57,4.9
+170,Fort Collins Double Chocolate Stout,Sweet Stout,Fort Collins Brewery,D.Kane,95,93,95,91,8.1
+171,Fort Collins Kidd Black Lager (Schwarzbier),Schwarzbier,Fort Collins Brewery,D.Kane,91,97,99,95,4.5
+172,Fort Collins Red Banshee (Retro Red),Amber Ale,Fort Collins Brewery,D.Kane,57,79,81,77,5.3
+173,Fort Collins Rocky Mountain IPA,India Pale Ale (IPA),Fort Collins Brewery,D.Kane,81,49,51,47,6.2
+174,Fort Collins Z Lager,Smoked,Fort Collins Brewery,D.Kane,63,39,41,37,4.5
+175,French Broad 13 Rebels ESB,Premium Bitter/ESB,French Broad Brewing Co.,D.Kane,50,52,54,50,5.2
+176,French Broad Anvil Porter,Porter,French Broad Brewing Co.,D.Kane,88,81,83,79,6
+177,French Broad Gateway Kolsch,Kölsch,French Broad Brewing Co.,D.Kane,54,87,89,85,5.3
+178,French Broad IPA,India Pale Ale (IPA),French Broad Brewing Co.,D.Kane,91,80,82,78,7
+179,French Broad Rye Hopper,Specialty Grain,French Broad Brewing Co.,D.Kane,91,95,97,93,5.9
+180,French Broad Wee Heavy-er Scotch Style Ale,Scotch Ale,French Broad Brewing Co.,D.Kane,79,48,50,46,7
+181,Great River 483 Pale Ale,American Pale Ale,Great River Brewery,D.Kane,82,80,82,78,5.4
+182,Great River Organic Farmer Brown Ale,Brown Ale,Great River Brewery,D.Kane,64,68,70,66,6.2
+183,Great River Redband Stout,Stout,Great River Brewery,D.Kane,96,95,97,93,6
+184,Great River Roller Dam Red Ale,Irish Ale,Great River Brewery,D.Kane,38,38,40,36,5.3
+185,Hales 25th Anniversary Ale,Abbey Dubbel,Hales Ales,D.Kane,82,76,78,74,7.1
+186,Hales Aftermath Imperial IPA,Imperial/Double IPA,Hales Ales,D.Kane,95,62,64,60,8.4
+187,Hales Kölsch 45,Kölsch,Hales Ales,D.Kane,41,61,63,59,0
+188,Hales Nut Brown Ale,Brown Ale,Hales Ales,D.Kane,45,41,43,39,4.2
+189,Hales Pale Ale,American Pale Ale,Hales Ales,D.Kane,66,50,52,48,5.2
+190,Hales Pikop Andropovs Rushin Imperial Stout,Imperial Stout,Hales Ales,D.Kane,86,24,26,22,7.5
+191,Hales Troll Porter,Porter,Hales Ales,D.Kane,71,46,48,44,6.9
+192,Hales Wee Heavy Winter Ale,Scotch Ale,Hales Ales,D.Kane,90,73,75,71,6.8
+193,Sugar Hill Golden Ale,Golden Ale/Blond Ale,Harlem Brewing Company,D.Kane,20,16,18,14,5.4
+194,Heretic Evil Cousin,Imperial/Double IPA,Heretic Brewing Company,D.Kane,97,80,82,78,8
+195,Heretic Evil Twin,American Strong Ale,Heretic Brewing Company,D.Kane,97,87,89,85,6.8
+196,Heretic Gramarye,American Pale Ale,Heretic Brewing Company,D.Kane,86,86,88,84,4.4
+197,Heretic Shallow Grave Porter,Porter,Heretic Brewing Company,D.Kane,97,99,100,97,7
+198,Heretic Tartuffe,Berliner Weisse,Heretic Brewing Company,D.Kane,58,35,37,33,4.8
+199,High Noon Annies Amber Ale,Amber Ale,High Noon Saloon & Brewery,D.Kane,18,9,11,7,5.5
+200,High Noon Oregon Trail Raspberry Wheat,Fruit Beer,High Noon Saloon & Brewery,D.Kane,37,67,69,65,4.5
+201,High Noon Tonganoxie Honey Wheat,Wheat Ale,High Noon Saloon & Brewery,D.Kane,24,36,38,34,4.46
+202,Highland Black Mocha Stout,Stout,Highland Brewing Company,D.Kane,94,93,95,91,5.3
+203,Highland Clawhammer Oktoberfest,Oktoberfest/Märzen,Highland Brewing Company,D.Kane,50,78,80,76,5
+204,Highland Gaelic Ale,Amber Ale,Highland Brewing Company,D.Kane,82,94,96,92,5.8
+205,Highland Kashmir IPA,India Pale Ale (IPA),Highland Brewing Company,D.Kane,63,33,35,31,5.6
+206,Highland Little Hump,American Pale Ale,Highland Brewing Company,D.Kane,78,73,75,71,4.5
+207,Highland Oatmeal Porter,Porter,Highland Brewing Company,D.Kane,93,92,94,90,5.8
+208,Highland Razor Wit,Belgian White (Witbier),Highland Brewing Company,D.Kane,82,94,96,92,4.5
+209,Highland St. Tereses Pale Ale,American Pale Ale,Highland Brewing Company,D.Kane,64,48,50,46,5.2
+210,Hilliards Amber Ale,Amber Ale,Hilliards Brewing Company,D.Kane,62,84,86,82,5.5
+211,Hilliards Saison,Saison,Hilliards Brewing Company,D.Kane,68,32,34,30,0
+212,Hilliards Scottish Blonde,Scottish Ale,Hilliards Brewing Company,D.Kane,43,32,34,30,0
+213,Hopworks Abominable Winter Ale,American Strong Ale,Hopworks Urban Brewery,D.Kane,96,85,87,83,7.3
+214,Hopworks Deluxe Organic Ale (DOA),American Strong Ale,Hopworks Urban Brewery,D.Kane,83,40,42,38,6.9
+215,Hopworks HUB Lager,Bohemian Pilsener,Hopworks Urban Brewery,D.Kane,77,95,97,93,5
+216,Hopworks IPA,India Pale Ale (IPA),Hopworks Urban Brewery,D.Kane,96,94,96,92,6.6
+217,Hopworks Survival 7-Grain Stout,Stout,Hopworks Urban Brewery,D.Kane,97,97,99,95,5.3
+218,Huebert Deep Deuce Porter,Porter,Huebert Brewing Company,D.Kane,NA,NA,NA,NA,7
+219,Huebert Rasenmaher Kölsch,Kölsch,Huebert Brewing Company,D.Kane,NA,NA,NA,NA,0
+220,Huebert Tucker Pale Ale,American Pale Ale,Huebert Brewing Company,D.Kane,NA,NA,NA,NA,0
+221,Huebert Wild Pony Wheat,Wheat Ale,Huebert Brewing Company,D.Kane,NA,NA,NA,NA,4.9
+222,La Cumbre Elevated IPA,India Pale Ale (IPA),La Cumbre Brewing Company,D.Kane,100,100,100,98,7.2
+223,Laurelwood Gearhead IPA,India Pale Ale (IPA),Laurelwood Public House & Brewery,D.Kane,86,65,67,63,6.5
+224,Laurelwood Moose and Squirrel Imperial Stout,Imperial Stout,Laurelwood Public House & Brewery,D.Kane,96,50,52,48,8
+225,Laurelwood Organic Deranger Imperial Red Ale,American Strong Ale,Laurelwood Public House & Brewery,D.Kane,96,83,85,81,8.6
+226,Laurelwood Organic Free Range Red,Amber Ale,Laurelwood Public House & Brewery,D.Kane,88,97,99,95,5.9
+227,Laurelwood Portlandia Pils,Pilsener,Laurelwood Public House & Brewery,D.Kane,55,93,95,91,5.5
+228,Laurelwood Stingy Jack Pumpkin Ale,Spice/Herb/Vegetable,Laurelwood Public House & Brewery,D.Kane,69,79,81,77,7
+229,Laurelwood Vinter Varmer,American Strong Ale,Laurelwood Public House & Brewery,D.Kane,91,56,58,54,6.4
+230,Laurelwood Workhorse IPA,India Pale Ale (IPA),Laurelwood Public House & Brewery,D.Kane,98,98,100,96,7.5
+231,Lazy Magnolia Gulf Porter,Porter,Lazy Magnolia Brewing Company,D.Kane,76,50,52,48,0
+232,Lazy Magnolia Indian Summer,Wheat Ale,Lazy Magnolia Brewing Company,D.Kane,47,82,84,80,4.8
+233,Lazy Magnolia Jefferson Stout,Sweet Stout,Lazy Magnolia Brewing Company,D.Kane,91,82,84,80,5
+234,Lazy Magnolia Reb Ale,American Pale Ale,Lazy Magnolia Brewing Company,D.Kane,43,29,31,27,5.4
+235,Lazy Magnolia Southern Pecan,Brown Ale,Lazy Magnolia Brewing Company,D.Kane,71,76,78,74,4.5
+236,Left Coast Ale Epeteios Imperial Stout,Imperial Stout,Left Coast/Oggis Pizza and Brewing Company,D.Kane,92,37,39,35,9.5
+237,Left Coast Asylum Belgian-Style Tripel Ale,Abbey Tripel,Left Coast/Oggis Pizza and Brewing Company,D.Kane,75,51,53,49,11.8
+238,Left Coast Boardwalk Saison Ale,Saison,Left Coast/Oggis Pizza and Brewing Company,D.Kane,64,28,30,26,7.8
+239,Left Coast The Wedge,Black IPA,Left Coast/Oggis Pizza and Brewing Company,D.Kane,93,65,67,63,7.2
+240,Left Coast Trestles IPA,India Pale Ale (IPA),Left Coast/Oggis Pizza and Brewing Company,D.Kane,96,94,96,92,6.8
+241,Left Coast Una Mas,Vienna,Left Coast/Oggis Pizza and Brewing Company,D.Kane,47,87,89,85,6.4
+242,Left Coast Voo Doo American Stout,Stout,Left Coast/Oggis Pizza and Brewing Company,D.Kane,97,97,99,95,8.5
+243,Mad River Jamaica Red Ale,Amber Ale,Mad River Brewery,D.Kane,81,94,96,92,6.5
+244,Mad River Jamaica Sunset IPA,India Pale Ale (IPA),Mad River Brewery,D.Kane,74,43,45,41,7
+245,Mad River Steelhead Double IPA,Imperial/Double IPA,Mad River Brewery,D.Kane,94,54,56,52,8.6
+246,Mad River Steelhead Extra Pale Ale,Golden Ale/Blond Ale,Mad River Brewery,D.Kane,51,82,84,80,5.6
+247,Mad River Steelhead Extra Stout,Stout,Mad River Brewery,D.Kane,97,98,100,96,6.5
+248,Mad River Steelhead Scotch Porter,Porter,Mad River Brewery,D.Kane,95,96,98,94,6
+249,Madison River Copper John Scotch Ale,Scotch Ale,Madison River Brewing Company,D.Kane,48,20,22,18,7
+250,Madison River Hopper Pale Ale,American Pale Ale,Madison River Brewing Company,D.Kane,75,66,68,64,5.7
+251,Madison River Irresistible Amber Ale,Amber Ale,Madison River Brewing Company,D.Kane,31,31,33,29,5.5
+252,Madison River Salmon Fly Honey Rye,Specialty Grain,Madison River Brewing Company,D.Kane,22,18,20,16,5.6
+253,Marble Bourbon Barrel-Aged Imperial Stout,Imperial Stout,Marble Brewery,D.Kane,96,49,51,47,11
+254,Marble D.I.P.A.,Imperial/Double IPA,Marble Brewery,D.Kane,97,76,78,74,8
+255,Marble Double White Ale,Belgian White (Witbier),Marble Brewery,D.Kane,80,92,94,90,7
+256,Marble Reserve Ale,American Strong Ale,Marble Brewery,D.Kane,97,89,91,87,9
+257,Johns Grocery Generations White Ale,Belgian White (Witbier),Millstream Brewing Company,D.Kane,81,93,95,91,5.2
+258,Millstream Colony Oatmeal Stout,Sweet Stout,Millstream Brewing Company,D.Kane,51,30,32,28,5.6
+259,Millstream German Pilsner,Classic German Pilsener,Millstream Brewing Company,D.Kane,54,95,97,93,4.5
+260,Millstream Hefe Weissen,German Hefeweizen,Millstream Brewing Company,D.Kane,48,69,71,67,5.2
+261,Millstream Iowa Pale Ale,India Pale Ale (IPA),Millstream Brewing Company,D.Kane,73,42,44,40,5.7
+262,Millstream Oktoberfest,Oktoberfest/Märzen,Millstream Brewing Company,D.Kane,64,90,92,88,5.4
+263,Millstream Schild Brau Amber,Vienna,Millstream Brewing Company,D.Kane,62,94,96,92,4.9
+264,Millstream Schokolade Bock,Dunkler Bock,Millstream Brewing Company,D.Kane,81,93,95,91,5.7
+265,Millstream Triple Raspberry,Fruit Beer,Millstream Brewing Company,D.Kane,62,90,92,88,9.5
+266,Millstream Windmill Wheat,Wheat Ale,Millstream Brewing Company,D.Kane,27,43,45,41,4.5
+267,Mission Amber Ale,Altbier,Mission Brewery,D.Kane,58,60,62,58,5
+268,Mission Blonde Ale,Kölsch,Mission Brewery,D.Kane,49,82,84,80,5
+269,Mission Dark Seas Imperial Stout,Imperial Stout,Mission Brewery,D.Kane,99,81,83,79,9.8
+270,Mission Hefeweizen,German Hefeweizen,Mission Brewery,D.Kane,41,46,48,44,5.3
+271,Mission IPA,India Pale Ale (IPA),Mission Brewery,D.Kane,94,88,90,86,6.8
+272,Mission Shipwrecked Double IPA,Imperial/Double IPA,Mission Brewery,D.Kane,93,50,52,48,9.25
+273,Monocacy Riot Rye,Specialty Grain,Monocacy Brewing Company,D.Kane,NA,NA,NA,NA,0
+274,Mother Road Gold Road Kölsch Style Ale,Kölsch,Mother Road Brewing Company,D.Kane,NA,NA,NA,NA,0
+275,Mother Road Roadside American Ale,American Pale Ale,Mother Road Brewing Company,D.Kane,NA,NA,NA,NA,0
+276,Mother Road Twin Arrows Brown Ale,Brown Ale,Mother Road Brewing Company,D.Kane,NA,NA,NA,NA,0
+277,Moylans Chelsea Moylans Porter,Porter,Moylans Brewery & Restaurant,D.Kane,91,90,92,88,5
+278,Moylans Dannys Irish Style Red Ale,Irish Ale,Moylans Brewery & Restaurant,D.Kane,49,66,68,64,6.5
+279,Moylans Dragoons Dry Irish Stout,Dry Stout,Moylans Brewery & Restaurant,D.Kane,92,96,98,94,5
+280,Moylans Gael-e-bration,American Pale Ale,Moylans Brewery & Restaurant,D.Kane,NA,NA,NA,NA,0
+281,Moylans Hopsickle Imperial India Pale Ale,Imperial/Double IPA,Moylans Brewery & Restaurant,D.Kane,99,98,100,96,9.2
+282,Moylans Kilt Lifter Scotch Ale,Scotch Ale,Moylans Brewery & Restaurant,D.Kane,77,47,49,45,8
+283,Moylans Moylander Double IPA,Imperial/Double IPA,Moylans Brewery & Restaurant,D.Kane,99,94,96,92,8.5
+284,Moylans Nor Cal IPA,India Pale Ale (IPA),Moylans Brewery & Restaurant,D.Kane,94,90,92,88,6.5
+285,Moylans Old Blarney Barley Wine,Barley Wine,Moylans Brewery & Restaurant,D.Kane,97,84,86,82,10
+286,Moylans Orange & Black Congrats Ale!,Fruit Beer,Moylans Brewery & Restaurant,D.Kane,77,94,96,92,6
+287,Moylans Ryan OSullivans Imperial Stout,Imperial Stout,Moylans Brewery & Restaurant,D.Kane,99,84,86,82,10
+288,Moylans Tipperary Pale Ale,American Pale Ale,Moylans Brewery & Restaurant,D.Kane,88,89,91,87,5
+289,"Moylans White Christmas Spiced Winter Lager (2008,2009)",Spice/Herb/Vegetable,Moylans Brewery & Restaurant,D.Kane,46,50,52,48,6
+290,Narragansett Bock (Helles),Heller Bock,Narragansett Brewing Company,D.Kane,49,60,62,58,6.5
+291,Narragansett Cream Ale,Cream Ale,Narragansett Brewing Company,D.Kane,43,79,81,77,5
+292,Narragansett Fest Lager,Oktoberfest/Märzen,Narragansett Brewing Company,D.Kane,38,45,47,43,5.5
+293,Narragansett Lager Beer,Pale Lager,Narragansett Brewing Company,D.Kane,13,85,87,83,5
+294,Narragansett Light,Pale Lager,Narragansett Brewing Company,D.Kane,11,79,81,77,3.8
+295,Narragansett Porter,Porter,Narragansett Brewing Company,D.Kane,59,37,39,35,7
+296,Narragansett Summer Ale,American Pale Ale,Narragansett Brewing Company,D.Kane,47,35,37,33,4.2
+297,Odin Freyas Gold,Kölsch,Odin Brewing Company,D.Kane,47,77,79,75,4.5
+298,Odin Gift Ruby Ale,Amber Ale,Odin Brewing Company,D.Kane,77,92,94,90,5.4
+299,Odin Thors Equinox,Belgian Strong Ale,Odin Brewing Company,D.Kane,85,63,65,61,9
+300,Pale Horse Hillbilly Blonde,Golden Ale/Blond Ale,Pale Horse Brewing Company,D.Kane,NA,NA,NA,NA,0
+301,Pale Horse Hopyard Dog IPA,India Pale Ale (IPA),Pale Horse Brewing Company,D.Kane,66,35,37,33,7.2
+302,Pale Horse Mystic Wolf Amber,Amber Ale,Pale Horse Brewing Company,D.Kane,NA,NA,NA,NA,6
+303,Pale Horse Ravens Roost,Imperial/Double IPA,Pale Horse Brewing Company,D.Kane,NA,NA,NA,NA,0
+304,Pale Horse Stout,Dry Stout,Pale Horse Brewing Company,D.Kane,67,48,50,46,4.4
+305,Pale Horse Winter Seasonal,Scotch Ale,Pale Horse Brewing Company,D.Kane,NA,NA,NA,NA,9
+306,Philadelphia Fleur de Lehigh,Spice/Herb/Vegetable,Philadelphia Brewing Company,D.Kane,34,39,41,37,4.2
+307,Philadelphia Joe Coffee Porter,Porter,Philadelphia Brewing Company,D.Kane,84,73,75,71,5
+308,Philadelphia Kenzinger,Dortmunder/Helles,Philadelphia Brewing Company,D.Kane,35,71,73,69,4.5
+309,Philadelphia Kilty Pleasure,Scotch Ale,Philadelphia Brewing Company,D.Kane,77,47,49,45,8
+310,Philadelphia Newbold IPA,India Pale Ale (IPA),Philadelphia Brewing Company,D.Kane,59,29,31,27,7
+311,Philadelphia Pennsylvania Pale Ale,American Pale Ale,Philadelphia Brewing Company,D.Kane,44,30,32,28,5.25
+312,Philadelphia Rowhouse Red,Specialty Grain,Philadelphia Brewing Company,D.Kane,45,42,44,40,5
+313,Philadelphia Shackamaximum Stout,Imperial Stout,Philadelphia Brewing Company,D.Kane,96,50,52,48,10
+314,Philadelphia Walt Wit,Belgian White (Witbier),Philadelphia Brewing Company,D.Kane,40,43,45,41,4
+315,Philadelphia Winter Wunder,Spice/Herb/Vegetable,Philadelphia Brewing Company,D.Kane,44,48,50,46,6.5
+316,Port City Downright Pilsner,Pilsener,Port City Brewing Company,D.Kane,70,96,98,94,4.8
+317,Port City Essential Pale Ale,American Pale Ale,Port City Brewing Company,D.Kane,69,55,57,53,5.5
+318,Port City Monumental IPA,India Pale Ale (IPA),Port City Brewing Company,D.Kane,54,25,27,23,6.3
+319,Port City Optimal Wit,Belgian White (Witbier),Port City Brewing Company,D.Kane,65,81,83,79,5
+320,Port City Porter,Porter,Port City Brewing Company,D.Kane,92,92,94,90,7.5
+321,Rahr & Sons Blonde Lager,Dortmunder/Helles,Rahr & Sons Brewing,D.Kane,24,34,36,32,4.6
+322,Rahr & Sons Rahrs Red,Vienna,Rahr & Sons Brewing,D.Kane,30,55,57,53,4.7
+323,Rahr & Sons Stormcloud IPA,India Pale Ale (IPA),Rahr & Sons Brewing,D.Kane,35,6,8,4,6
+324,Rahr & Sons Ugly Pug,Schwarzbier,Rahr & Sons Brewing,D.Kane,39,32,34,30,4.75
+325,Red Lodge Bent Nail IPA,India Pale Ale (IPA),Red Lodge Ales,D.Kane,75,44,46,42,6.3
+326,Red Lodge Broken Nail Double IPA,Imperial/Double IPA,Red Lodge Ales,D.Kane,74,19,21,17,8.5
+327,Red Lodge Czech Mate Pilsner,Pilsener,Red Lodge Ales,D.Kane,39,81,83,79,5.5
+328,Red Lodge Glacier Ale,Altbier,Red Lodge Ales,D.Kane,55,54,56,52,5.2
+329,Red Lodge Hefeweizen,Wheat Ale,Red Lodge Ales,D.Kane,40,68,70,66,6
+330,Red Lodge Octoberfest,Oktoberfest/Märzen,Red Lodge Ales,D.Kane,0,0,2,0,5.5
+331,Renegade Ryeteous Rye IPA,India Pale Ale (IPA),Renegade Brewing Company,D.Kane,72,41,43,39,7
+332,Rio Grande Desert Pils,Classic German Pilsener,Rio Grande Brewing Co. (Sierra Blanca Brewing),D.Kane,23,30,32,28,5.4
+333,Rio Grande India Pale Ale,India Pale Ale (IPA),Rio Grande Brewing Co. (Sierra Blanca Brewing),D.Kane,45,13,15,11,5.8
+334,Rio Grande Outlaw Lager,California Common,Rio Grande Brewing Co. (Sierra Blanca Brewing),D.Kane,15,1,3,0,5.2
+335,Rio Grande Pancho Verde Chile Cerveza,Spice/Herb/Vegetable,Rio Grande Brewing Co. (Sierra Blanca Brewing),D.Kane,12,12,14,10,4.67
+336,Rivertown Blueberry Lager,Fruit Beer,Rivertown Brewing,D.Kane,25,48,50,46,5.3
+337,Rivertown Bock,Dunkler Bock,Rivertown Brewing,D.Kane,45,46,48,44,7.2
+338,Rivertown Dunkel,Dunkel,Rivertown Brewing,D.Kane,53,85,87,83,5.8
+339,Rivertown Helles Lager,Dortmunder/Helles,Rivertown Brewing,D.Kane,44,89,91,87,5.3
+340,Rivertown Hop Baron Doubledown IPA,Imperial/Double IPA,Rivertown Brewing,D.Kane,88,40,42,38,8.5
+341,Rivertown Hop Bomber Pale Ale,American Pale Ale,Rivertown Brewing,D.Kane,65,49,51,47,5.5
+342,Rivertown Jenneke,Belgian White (Witbier),Rivertown Brewing,D.Kane,39,42,44,40,6.1
+343,Rivertown Lambic,Lambic - Unblended,Rivertown Brewing,D.Kane,96,84,86,82,6.3
+344,Rivertown Ojos Negros,Lambic - Fruit,Rivertown Brewing,D.Kane,95,68,70,66,6.5
+345,Rivertown Oktoberfest,Oktoberfest/Märzen,Rivertown Brewing,D.Kane,45,62,64,60,6.7
+346,Rivertown Old Sour Cherry Porter,Sour Ale/Wild Ale,Rivertown Brewing,D.Kane,74,23,25,21,9
+347,Rivertown Pumpkin Ale,Spice/Herb/Vegetable,Rivertown Brewing,D.Kane,75,84,86,82,5
+348,Rivertown Roebling Porter,Imperial/Strong Porter,Rivertown Brewing,D.Kane,78,17,19,15,7.8
+349,Rivertown Unit 6 American Hefeweizen,Wheat Ale,Rivertown Brewing,D.Kane,33,53,55,51,5.5
+350,Rivertown Ville De Rivere Geuze,Lambic - Gueuze,Rivertown Brewing,D.Kane,92,34,36,32,6.4
+351,Rivertown Winter Ale,Spice/Herb/Vegetable,Rivertown Brewing,D.Kane,46,50,52,48,0
+352,Rivertown Wit,Belgian White (Witbier),Rivertown Brewing,D.Kane,37,39,41,37,5.1
+353,Santa Fe Black IPA,Black IPA,Santa Fe Brewing Company,D.Kane,81,35,37,33,7.1
+354,Santa Fe Chicken Killer Barley Wine,Barley Wine,Santa Fe Brewing Company,D.Kane,91,51,53,49,10
+355,Santa Fe Freestyle Pilsner,Pilsener,Santa Fe Brewing Company,D.Kane,62,94,96,92,5.5
+356,Santa Fe Happy Camper IPA,India Pale Ale (IPA),Santa Fe Brewing Company,D.Kane,89,74,76,72,6.6
+357,Santa Fe Imperial Java Stout,Imperial Stout,Santa Fe Brewing Company,D.Kane,98,70,72,68,8
+358,Santa Fe Kickin Chicken,Barley Wine,Santa Fe Brewing Company,D.Kane,89,48,50,46,12
+359,Santa Fe Nut Brown Ale,Brown Ale,Santa Fe Brewing Company,D.Kane,42,36,38,34,5.2
+360,Santa Fe Oktoberfest,Oktoberfest/Märzen,Santa Fe Brewing Company,D.Kane,49,78,80,76,6
+361,Santa Fe State Pen Porter,Porter,Santa Fe Brewing Company,D.Kane,92,90,92,88,6.4
+362,Sierra Blanca Alien Wheat,Belgian White (Witbier),Sierra Blanca Brewing Co,D.Kane,26,22,24,20,5
+363,Sierra Blanca Imperial Stout,Imperial Stout,Sierra Blanca Brewing Co,D.Kane,61,6,8,4,7.2
+364,Sierra Blanca Nut Brown Beer,Brown Ale,Sierra Blanca Brewing Co,D.Kane,59,62,64,60,5
+365,Sierra Blanca Pale Ale,American Pale Ale,Sierra Blanca Brewing Co,D.Kane,39,22,24,20,6
+366,Sierra Blanca Roswell Alien Amber Ale,Amber Ale,Sierra Blanca Brewing Co,D.Kane,21,14,16,12,5.2
+367,Six Rivers Bluff Creek Pale Ale,American Pale Ale,Six Rivers Brewery,D.Kane,30,11,13,9,5.5
+368,Six Rivers Chili Pepper Spicy Ale,Spice/Herb/Vegetable,Six Rivers Brewery,D.Kane,31,36,38,34,6
+369,Six Rivers IPA,India Pale Ale (IPA),Six Rivers Brewery,D.Kane,77,45,47,43,7.2
+370,Six Rivers Moonstone Porter,Porter,Six Rivers Brewery,D.Kane,63,40,42,38,6
+371,Six Rivers Paradise Moon Coffee Porter,Porter,Six Rivers Brewery,D.Kane,81,65,67,63,6
+372,Straight To Ale Monkeynaut IPA,India Pale Ale (IPA),Straight To Ale,D.Kane,91,80,82,78,7.25
+373,Strike Blonde Ale,Golden Ale/Blond Ale,Strike Brewing Company,D.Kane,NA,NA,NA,NA,0
+374,Strike Brown Ae,Brown Ale,Strike Brewing Company,D.Kane,NA,NA,NA,NA,0
+375,Strike Imperial Red,Amber Ale,Strike Brewing Company,D.Kane,NA,NA,NA,NA,0
+376,Strike IPA,India Pale Ale (IPA),Strike Brewing Company,D.Kane,NA,NA,NA,NA,0
+377,Strike Wit,Belgian White (Witbier),Strike Brewing Company,D.Kane,NA,NA,NA,NA,0
+378,Telluride Bridal Veil Rye Pale Ale,Specialty Grain,Telluride Brewing Company,D.Kane,NA,NA,NA,NA,5.5
+379,Terrapin Georgia Theatre Session: Double Feature,Abbey Dubbel,Terrapin Beer Company,D.Kane,52,35,37,33,7.7
+380,Terrapin Hopsecutioner India Pale Ale,India Pale Ale (IPA),Terrapin Beer Company,D.Kane,96,95,97,93,7.3
+381,Terrapin Rye Pale Ale,American Pale Ale,Terrapin Beer Company,D.Kane,92,94,96,92,5.3
+382,Terrapin Side Project Phlux Capacitor,American Strong Ale,Terrapin Beer Company,D.Kane,93,64,66,62,9.8
+383,Thunderhead Cornstalker Dark Wheat,Wheat Ale,Thunderhead Brewing Company,D.Kane,48,84,86,82,5.2
+384,Thunderhead Golden Fraü,Wheat Ale,Thunderhead Brewing Company,D.Kane,31,48,50,46,7.5
+385,Twisted Pine Big Shot Espresso Stout,Sweet Stout,Twisted Pine Brewing,D.Kane,95,93,95,91,6
+386,Twisted Pine Billys Chilies,Spice/Herb/Vegetable,Twisted Pine Brewing,D.Kane,30,34,36,32,5.1
+387,Twisted Pine Ghost Face Killah,Spice/Herb/Vegetable,Twisted Pine Brewing,D.Kane,14,15,17,13,4.5
+388,Twisted Pine Hoppy Boy IPA,India Pale Ale (IPA),Twisted Pine Brewing,D.Kane,50,21,23,19,6.2
+389,Twisted Pine Raspberry Wheat Ale,Fruit Beer,Twisted Pine Brewing,D.Kane,25,48,50,46,5.1
+390,Upslope Brown Ale,Brown Ale,Upslope Brewing Company,D.Kane,87,93,95,91,6.7
+391,Upslope Christmas Ale,Spice/Herb/Vegetable,Upslope Brewing Company,D.Kane,41,45,47,43,8.2
+392,Upslope Craft Lager,Premium Lager,Upslope Brewing Company,D.Kane,26,63,65,61,4.8
+393,Upslope India Pale Ale,India Pale Ale (IPA),Upslope Brewing Company,D.Kane,50,21,23,19,7.2
+394,Upslope Pale Ale,American Pale Ale,Upslope Brewing Company,D.Kane,40,24,26,22,5.8
+395,Voodoo 4 Seasons IPA,India Pale Ale (IPA),Voodoo Brewing Co.,D.Kane,78,46,48,44,0
+396,Voodoo Big Black Voodoo Daddy,Imperial Stout,Voodoo Brewing Co.,D.Kane,99,85,87,83,12
+397,Voodoo Gran Met,Belgian Strong Ale,Voodoo Brewing Co.,D.Kane,55,31,33,29,9.5
+398,Voodoo Love Child,Fruit Beer,Voodoo Brewing Co.,D.Kane,69,92,94,90,9.5
+399,Voodoo White Magick of the Sun,Belgian White (Witbier),Voodoo Brewing Co.,D.Kane,62,78,80,76,6
+400,Voodoo Wynonas Big Brown Ale,Brown Ale,Voodoo Brewing Co.,D.Kane,91,96,98,94,7.2
