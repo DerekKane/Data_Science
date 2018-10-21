@@ -1,0 +1,7 @@
+testStat	obsStats	pValClassical	pValBootstrap
+abs diff means	0.26	NA	0.0172
+abs diff medians	0.322	NA	0.014
+abs welch t	2.344	NA	0.017
+welch t	-2.344	0.0194	0.017
+kolmogorov-smirnov	0.134	0.0073	0.0051
+wilcoxon	41710	0.0012	0.0011

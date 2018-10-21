@@ -1,0 +1,4 @@
+meth	est	avgBoot	se	seBoot
+leastSq	-0.046	-0.045	0.1097	0.101
+leastTrimSq	0.195	0.194	0.0184	0.0659
+MM	0.067	0.066	0.0431	0.0494

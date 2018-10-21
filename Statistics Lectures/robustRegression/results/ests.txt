@@ -1,0 +1,7 @@
+meth	excl	est	se
+leastSq	FALSE	-0.046	0.1097
+leastSq	TRUE	0.074	0.0273
+leastTrimSq	FALSE	0.195	0.0184
+leastTrimSq	TRUE	0.195	0.0184
+MM	FALSE	0.067	0.0431
+MM	TRUE	0.076	0.0349
