@@ -1,0 +1,766 @@
+Max Horizontal Resolution,Memory Technology,Installed Memory,Processor Speed,Processor,Manufacturer,Infrared,Bluetooth,Docking Station,Port Replicator,Fingerprint,Subwoofer,External Battery,CDMA,Operating System,Warranty-Days,Price
+1200,DDR2,512,1830,Intel Core2 Duo,Apple,NO,YES,NO,NO,NO,NO,NO,NO,Mac_OS,365,949.99
+800,DDR2,1000,2000,Intel Core2 Duo,Apple,NO,YES,NO,NO,NO,NO,NO,NO,Mac_OS,365,999.95
+800,DDR2,1000,2000,Intel Core2 Duo,Apple,NO,YES,NO,NO,NO,NO,NO,NO,Mac_OS,365,1085.8
+800,DDR2,1000,2160,Intel Core2 Duo,Apple,NO,YES,NO,NO,NO,NO,NO,NO,Mac_OS,365,1089.99
+800,DDR2,512,2000,Intel Core2 Duo,Apple,NO,YES,NO,NO,NO,NO,NO,NO,Mac_OS,365,1199.99
+800,DDR2,1000,2000,Intel Core2 Duo,Apple,NO,YES,NO,NO,NO,NO,NO,NO,Mac_OS,365,1249.99
+800,DDR2,512,1830,Intel Core2 Duo,Apple,NO,YES,NO,NO,NO,NO,NO,NO,Mac_OS,365,1299.99
+800,DDR2,1000,2160,Intel Core2 Duo,Apple,NO,YES,NO,NO,NO,NO,NO,NO,Mac_OS,365,1349.95
+800,DDR2,512,2000,Intel Core2 Duo,Apple,NO,YES,NO,NO,NO,NO,NO,NO,Mac_OS,365,1549.99
+900,DDR2,2000,2200,Intel Core2 Duo,Apple,NO,NO,NO,NO,NO,NO,NO,NO,Mac_OS,365,1883.99
+900,DDR2,2000,2330,Intel Core2 Duo,Apple,NO,YES,NO,NO,NO,NO,NO,NO,Mac_OS,365,1899
+768,DDR-SDRAM_(DDRRAM),256,1000,PowerPC,Apple,NO,NO,NO,NO,NO,NO,NO,NO,Mac_OS,365,539
+768,SDRAM,250,933,PowerPC,Apple,NO,NO,NO,NO,NO,NO,NO,NO,Mac_OS,365,559
+768,DDR-SDRAM_(DDRRAM),256,1000,PowerPC,Apple,NO,NO,NO,NO,NO,NO,NO,NO,Mac_OS,365,569
+768,DDR-SDRAM_(DDRRAM),256,1330,PowerPC,Apple,NO,NO,NO,NO,NO,NO,NO,NO,Mac_OS,365,579
+768,DDR-SDRAM_(DDRRAM),256,867,PowerPC,Apple,NO,NO,NO,NO,NO,NO,NO,NO,Mac_OS,365,579
+768,DDR-SDRAM_(DDRRAM),256,1000,PowerPC,Apple,NO,NO,NO,NO,NO,NO,NO,NO,Mac_OS,365,599
+768,DDR-SDRAM_(DDRRAM),256,1200,PowerPC,Apple,NO,NO,NO,NO,NO,NO,NO,NO,Mac_OS,365,649
+768,DDR-SDRAM_(DDRRAM),512,1330,PowerPC,Apple,NO,YES,NO,NO,NO,NO,NO,NO,Mac_OS,365,659
+854,DDR-SDRAM_(DDRRAM),256,867,PowerPC,Apple,NO,NO,NO,NO,NO,NO,NO,NO,Mac_OS,365,679
+768,DDR-SDRAM_(DDRRAM),256,1330,PowerPC,Apple,NO,NO,NO,NO,NO,NO,NO,NO,Mac_OS,365,729.99
+768,DDR-SDRAM_(DDRRAM),512,1000,PowerPC,Apple,NO,NO,NO,NO,NO,NO,NO,NO,Mac_OS,365,749.95
+768,DDR-SDRAM_(DDRRAM),512,1500,PowerPC,Apple,NO,YES,NO,NO,NO,NO,NO,NO,Mac_OS,365,779
+768,DDR-SDRAM_(DDRRAM),512,1250,PowerPC,Apple,NO,NO,NO,NO,NO,NO,NO,NO,Mac_OS,365,799
+768,DDR-SDRAM_(DDRRAM),512,1420,PowerPC,Apple,NO,YES,NO,NO,NO,NO,NO,NO,Mac_OS,365,799
+960,DDR2,512,1670,PowerPC,Apple,NO,YES,NO,NO,NO,NO,NO,NO,Mac_OS,365,949
+900,DDR-SDRAM_(DDRRAM),512,1330,PowerPC,Apple,NO,NO,NO,NO,NO,NO,NO,NO,Mac_OS,365,1029
+900,DDR-SDRAM_(DDRRAM),512,1500,PowerPC,Apple,NO,NO,NO,NO,NO,NO,NO,NO,Mac_OS,365,1075
+768,DDR-SDRAM_(DDRRAM),512,1500,PowerPC,Apple,NO,YES,NO,NO,NO,NO,NO,NO,Mac_OS,365,1129.99
+900,DDR-SDRAM_(DDRRAM),512,1670,PowerPC,Apple,NO,YES,NO,NO,NO,NO,NO,NO,Mac_OS,365,1295
+1050,DDR2,512,1670,PowerPC,Apple,NO,YES,NO,NO,NO,NO,NO,NO,Mac_OS,365,1399
+854,DDR-SDRAM_(DDRRAM),512,1670,PowerPC,Apple,NO,YES,NO,NO,NO,NO,NO,NO,Mac_OS,365,1893.36
+854,DDR-SDRAM_(DDRRAM),512,1670,PowerPC,Apple,NO,YES,NO,NO,NO,NO,NO,NO,Mac_OS,365,1893.36
+800,DDR2,512,1800,AMD Mobile Sempron,HP_(Hewlett-Packard),NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,642.61
+800,DDR2,512,1800,AMD Mobile Sempron,HP_(Hewlett-Packard),NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,652.59
+768,DDR2,1000,1600,AMD Turion 64x2,Fujitsu,NO,NO,NO,NO,YES,NO,NO,NO,Vista_Business,365,1674
+800,DDR2,512,1600,AMD Turion 64x2,HP_(Hewlett-Packard),NO,NO,YES,YES,YES,NO,NO,NO,Vista_Business,365,688.99
+800,DDR2,1000,1600,AMD Turion 64x2,HP_(Hewlett-Packard),NO,NO,NO,NO,YES,NO,NO,NO,Vista_Business,365,757.98
+800,DDR2,1000,1600,AMD Turion 64x2,HP_(Hewlett-Packard),NO,NO,YES,YES,YES,NO,NO,NO,Vista_Business,365,767.84
+800,DDR2,1000,1800,AMD Turion 64x2,HP_(Hewlett-Packard),NO,YES,YES,YES,NO,NO,NO,NO,Vista_Business,1095,904.99
+768,DDR2,512,1730,Intel Celeron,Lenovo,NO,NO,NO,NO,NO,NO,NO,NO,Vista_Business,365,599.99
+800,DDR2,512,1730,Intel Celeron,Toshiba,NO,NO,YES,YES,YES,NO,NO,NO,Vista_Business,365,730
+800,DDR2,1000,1730,Intel Core2 Duo,Acer,NO,NO,NO,NO,NO,NO,NO,NO,Vista_Business,365,794
+800,DDR2,2000,1660,Intel Core2 Duo,Acer,NO,NO,NO,NO,NO,NO,NO,NO,Vista_Business,365,992.73
+800,DDR2,1000,1660,Intel Core2 Duo,Acer,NO,NO,NO,NO,NO,NO,NO,NO,Vista_Business,365,1178.22
+720,DDR2,1000,2000,Intel Core2 Duo,Asus,NO,YES,NO,NO,NO,NO,NO,NO,Vista_Business,720,1281.99
+800,DDR2,1500,2200,Intel Core2 Duo,Asus,NO,YES,NO,NO,NO,NO,NO,NO,Vista_Business,720,1518.32
+768,DDR2,1500,1060,Intel Core2 Duo,Asus,NO,YES,NO,NO,YES,NO,NO,NO,Vista_Business,720,1848.99
+768,DDR2,1500,2000,Intel Core2 Duo,Asus,NO,YES,NO,NO,NO,NO,NO,NO,Vista_Business,720,1893.22
+800,DDR2,2000,2000,Intel Core2 Duo,Fujitsu,NO,YES,NO,NO,YES,NO,NO,NO,Vista_Business,365,1149
+1200,DDR2,1000,1660,Intel Core2 Duo,Fujitsu,YES,NO,YES,YES,NO,NO,NO,NO,Vista_Business,365,1339
+900,DDR2,2000,2000,Intel Core2 Duo,Fujitsu,NO,NO,NO,NO,YES,NO,NO,NO,Vista_Business,365,1624
+800,DDR2,1000,2200,Intel Core2 Duo,Fujitsu,YES,NO,YES,YES,NO,NO,NO,NO,Vista_Business,365,1699
+768,DDR2,2000,2000,Intel Core2 Duo,Fujitsu,YES,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1719
+768,DDR2,2000,2000,Intel Core2 Duo,Fujitsu,YES,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1719
+800,DDR2,512,1600,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,Vista_Business,365,599
+800,DDR2,1000,1600,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,Vista_Business,365,781.49
+800,DDR2,1000,1800,Intel Core2 Duo,HP_(Hewlett-Packard),NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,1095,785.99
+800,DDR2,512,1660,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,Vista_Business,365,849
+800,DDR2,1000,1800,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,YES,YES,YES,NO,NO,NO,Vista_Business,365,889.94
+800,DDR2,512,1660,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,Vista_Business,365,899.95
+800,DDR2,1000,1860,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,Vista_Business,365,924.99
+800,DDR2,1000,1800,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,YES,YES,YES,NO,NO,NO,Vista_Business,365,944
+800,DDR2,1000,1660,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,Vista_Business,365,980.87
+800,DDR2,1000,1660,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,Vista_Business,365,995
+800,DDR2,1000,1830,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,YES,YES,NO,NO,NO,NO,Vista_Business,365,1039
+800,DDR2,1000,1800,Intel Core2 Duo,HP_(Hewlett-Packard),YES,YES,YES,YES,YES,NO,NO,NO,Vista_Business,1095,1062
+800,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,1095,1094.99
+800,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),YES,YES,YES,YES,YES,NO,NO,NO,Vista_Business,1095,1135
+800,DDR2,1000,1730,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,Vista_Business,365,1144.98
+1050,DDR2,1000,1830,Intel Core2 Duo,HP_(Hewlett-Packard),NO,YES,YES,YES,NO,NO,NO,NO,Vista_Business,365,1209
+1050,DDR2,2000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,YES,YES,YES,NO,NO,NO,Vista_Business,365,1304.99
+1050,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,1095,1368.47
+800,DDR2,1000,1060,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,YES,YES,NO,NO,NO,NO,Vista_Business,1095,1389
+800,DDR2,1000,1830,Intel Core2 Duo,HP_(Hewlett-Packard),YES,YES,YES,YES,YES,NO,NO,NO,Vista_Business,1095,1425
+1050,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,1095,1428
+1050,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),NO,YES,YES,YES,NO,NO,YES,NO,Vista_Business,1095,1698
+768,DDR2,1000,1600,Intel Core2 Duo,Lenovo,NO,NO,NO,NO,NO,NO,NO,NO,Vista_Business,365,693
+800,DDR2,1000,1800,Intel Core2 Duo,Lenovo,NO,YES,NO,NO,NO,NO,NO,NO,Vista_Business,365,849.99
+1536,DDR2,1000,1500,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,NO,NO,NO,NO,Vista_Business,365,875
+800,DDR2,1000,1860,Intel Core2 Duo,Lenovo,NO,YES,NO,NO,NO,NO,NO,NO,Vista_Business,365,880
+800,DDR2,1000,1860,Intel Core2 Duo,Lenovo,NO,YES,NO,NO,NO,NO,NO,NO,Vista_Business,365,880
+800,DDR2,1000,1800,Intel Core2 Duo,Lenovo,NO,NO,NO,NO,YES,NO,NO,NO,Vista_Business,365,899.99
+800,DDR2,1000,1800,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,969.99
+800,DDR2,1000,1800,Intel Core2 Duo,Lenovo,NO,NO,NO,NO,NO,NO,NO,NO,Vista_Business,365,994
+800,DDR2,1000,2000,Intel Core2 Duo,Lenovo,NO,YES,NO,NO,NO,NO,NO,NO,Vista_Business,365,1080.01
+800,DDR2,1000,1800,Intel Core2 Duo,Lenovo,NO,NO,NO,NO,YES,NO,NO,NO,Vista_Business,365,1083
+1050,DDR2,1000,2000,Intel Core2 Duo,Lenovo,NO,YES,NO,NO,YES,NO,NO,NO,Vista_Business,365,1140.87
+800,DDR2,1000,1660,Intel Core2 Duo,Lenovo,YES,NO,YES,YES,YES,NO,NO,NO,Vista_Business,365,1143.58
+768,DDR2,1000,2000,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,1095,1149
+1050,DDR2,2000,2000,Intel Core2 Duo,Lenovo,NO,YES,NO,NO,YES,NO,NO,NO,Vista_Business,365,1149.99
+768,DDR2,1000,2000,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1179
+800,DDR2,1000,1800,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,NO,NO,NO,NO,Vista_Business,1095,1249
+768,DDR2,1000,1660,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,YES,NO,NO,NO,Vista_Business,365,1256
+1050,DDR2,1000,1660,Intel Core2 Duo,Lenovo,YES,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1278.03
+800,DDR2,1000,2000,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,1095,1299
+800,DDR2,1000,2000,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,YES,NO,NO,NO,Vista_Business,1095,1339
+800,DDR2,1000,2000,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,NO,NO,NO,NO,Vista_Business,1095,1344
+800,DDR2,1000,2000,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,NO,NO,NO,NO,Vista_Business,1095,1344
+1050,DDR2,1000,2000,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,1095,1349
+900,DDR2,1000,2000,Intel Core2 Duo,Lenovo,NO,YES,NO,NO,YES,NO,NO,NO,Vista_Business,1095,1364.99
+768,DDR2,1000,2000,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1439
+800,DDR2,2000,2000,Intel Core2 Duo,Lenovo,NO,YES,NO,NO,YES,NO,NO,NO,Vista_Business,365,1499
+900,DDR2,1000,2000,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,YES,NO,NO,NO,Vista_Business,1095,1548.83
+768,DDR2,1000,1600,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,1095,1565
+768,DDR2,2000,2000,Intel Core2 Duo,Lenovo,YES,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1629
+900,DDR2,1000,2200,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,1095,1649.68
+900,DDR2,1000,2200,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,1095,1711
+1050,DDR2,1000,2000,Intel Core2 Duo,Lenovo,YES,YES,YES,YES,YES,NO,NO,NO,Vista_Business,1095,1751.91
+768,DDR2,1000,1600,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,1095,1797.99
+800,DDR2,1000,1730,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,Vista_Business,365,765
+800,DDR2,1000,1730,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,Vista_Business,365,866.99
+800,DDR2,1000,1730,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,Vista_Business,365,949.99
+800,DDR2,2000,1.66,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,Vista_Business,365,959.95
+800,DDR2,1000,1860,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,Vista_Business,365,962.61
+800,DDR2,1000,1800,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1010.15
+800,DDR2,1000,1600,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,Vista_Business,365,1055
+800,DDR2,1000,1800,Intel Core2 Duo,Sony,NO,YES,NO,NO,NO,NO,NO,NO,Vista_Business,365,1071.96
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1079.99
+800,DDR2,2000,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,Vista_Business,365,1199
+800,DDR2,2000,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,Vista_Business,365,1199.99
+800,DDR2,2000,1800,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,Vista_Business,365,1209
+800,DDR2,1000,1660,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1229
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,NO,NO,NO,NO,NO,NO,Vista_Business,365,1239
+800,DDR2,2000,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,Vista_Business,365,1298
+800,DDR2,1000,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,Vista_Business,365,1332
+800,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,Vista_Business,365,1345
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,Vista_Business,365,1365
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,Vista_Business,365,1387.99
+800,DDR2,2000,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,Vista_Business,365,1392.43
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1449.95
+800,DDR2,2000,1800,Intel Core2 Duo,Sony,NO,YES,NO,NO,NO,NO,NO,NO,Vista_Business,365,1449.99
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1452.51
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1459
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1499
+800,DDR2,2000,2200,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,Vista_Business,365,1548.99
+800,DDR2,2000,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,Vista_Business,365,1563
+900,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,Vista_Business,365,1575.7
+800,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,Vista_Business,365,1595
+800,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,Vista_Business,365,1599.33
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,Vista_Business,365,1636.72
+800,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1649
+800,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1669.95
+800,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1669.95
+800,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1669.95
+800,DDR2,1000,2200,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,Vista_Business,365,1687.09
+800,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,Vista_Business,365,1695
+800,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1766.79
+800,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,NO,YES,YES,YES,NO,NO,NO,Vista_Business,365,1785
+800,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,NO,YES,YES,YES,NO,NO,NO,Vista_Business,365,1786.84
+800,DDR2,2000,2160,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1816.35
+800,DDR2,2000,2400,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,Vista_Business,365,1819
+800,DDR2,1000,2400,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,Vista_Business,365,1869.95
+800,DDR2,2000,2200,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,Vista_Business,365,1875
+768,DDR2,1000,1060,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1879
+800,DDR2,2000,2160,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1879.95
+800,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1880
+800,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,Vista_Business,365,1899.95
+768,DDR2,1000,1060,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,Vista_Business,365,1919
+800,DDR2,1000,1660,Intel Core2 Duo,Toshiba,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,849.99
+800,DDR2,1000,1830,Intel Core2 Duo,Toshiba,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1019
+768,DDR2,1000,1830,Intel Core2 Duo,Toshiba,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1195
+800,DDR2,1000,1830,Intel Core2 Duo,Toshiba,NO,YES,NO,NO,YES,NO,NO,NO,Vista_Business,365,1199
+1050,DDR2,2000,2000,Intel Core2 Duo,Toshiba,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,1095,1618
+900,DDR2,1000,2200,Intel Core2 Duo,Toshiba,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,1095,1636.45
+900,DDR2,2000,2200,Intel Core2 Duo,Toshiba,NO,NO,YES,YES,YES,NO,NO,NO,Vista_Business,1095,1784.91
+800,DDR2,1000,1200,Intel Core2 Solo,Fujitsu,NO,NO,YES,YES,YES,NO,NO,NO,Vista_Business,365,1688
+768,DDR2,1000,1330,Intel Core2 Solo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1675
+768,DDR2,2000,1330,Intel Core2 Solo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,Vista_Business,365,1699
+800,DDR2,512,1800,AMD Mobile Sempron,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,498
+800,DDR2,512,1800,AMD Mobile Sempron,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,499
+800,DDR2,512,1800,AMD Mobile Sempron,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,533
+800,DDR2,512,1800,AMD Mobile Sempron,Dell,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,729
+800,DDR2,512,1800,AMD Mobile Sempron,Dell,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,789.99
+800,DDR2,512,1800,AMD Mobile Sempron,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,469.99
+800,DDR2,512,1800,AMD Mobile Sempron,HP_(Hewlett-Packard),NO,NO,YES,YES,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,564.99
+800,DDR2,512,1800,AMD Mobile Sempron,HP_(Hewlett-Packard),NO,NO,YES,YES,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,565
+800,DDR2,512,1800,AMD Mobile Sempron,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,639.99
+800,DDR2,512,1800,AMD Mobile Sempron,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,649.97
+800,DDR2,512,2000,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,549.99
+800,DDR2,512,2000,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,633.9
+800,DDR2,512,2000,AMD Turion 64x2,Dell,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,698
+768,DDR2,512,1600,AMD Turion 64x2,Fujitsu,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,1274
+800,DDR2,512,1600,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,589.99
+800,DDR2,512,1600,AMD Turion 64x2,HP_(Hewlett-Packard),YES,YES,YES,YES,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,799.95
+800,DDR2,512,1860,Intel Celeron,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,475.28
+800,DDR2,512,1730,Intel Celeron,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,509
+800,DDR2,512,1730,Intel Celeron,Gateway,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,499.99
+800,DDR2,512,1600,Intel Celeron,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,474.99
+800,DDR2,512,1600,Intel Celeron,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,529.95
+800,DDR2,512,1860,Intel Celeron,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,549.95
+800,DDR2,512,1600,Intel Celeron,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,614.99
+800,DDR2,512,1600,Intel Celeron,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,614.99
+800,DDR2,512,1730,Intel Celeron,Lenovo,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,669
+800,DDR2,512,1600,Intel Celeron,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,495
+800,DDR2,512,1600,Intel Celeron,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,584.99
+800,DDR2,512,1600,Intel Celeron,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,599
+800,DDR2,512,1600,Intel Celeron,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,599.97
+800,DDR2,512,1600,Intel Core2 Duo,Dell,NO,YES,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,599
+800,DDR2,512,1600,Intel Core2 Duo,Dell,YES,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,599
+800,DDR2,512,1660,Intel Core2 Duo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,754
+800,DDR2,512,1860,Intel Core2 Duo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,754
+800,DDR2,1000,1600,Intel Core2 Duo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,795.99
+800,DDR2,1000,1860,Intel Core2 Duo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,848
+800,DDR2,1000,1860,Intel Core2 Duo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,849
+800,DDR2,512,1600,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,634
+800,DDR2,2000,1830,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,899.99
+768,DDR2,1000,1600,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,NO,NO,NO,YES,VistaHB:_Vista_Home_Basic,365,1409
+800,DDR2,512,1600,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,589.99
+800,DDR2,1000,1600,Intel Pentium Dual-Core,Dell,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,799.99
+800,DDR2,1000,1730,Intel Pentium Dual-Core,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,620
+800,DDR2,1000,1730,Intel Pentium Dual-Core,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,635
+800,DDR2,512,1730,Intel Pentium Dual-Core,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHB:_Vista_Home_Basic,365,639.97
+800,DDR2,1000,1700,AMD Athlon 64x2 Doble Nucleo,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,649.99
+900,DDR2,1000,1800,AMD Athlon 64x2 Doble Nucleo,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,749.99
+800,DDR2,1000,1700,AMD Athlon 64x2 Doble Nucleo,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,629.98
+800,DDR2,1000,1700,AMD Athlon 64x2 Doble Nucleo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,679.99
+800,DDR2,1000,2000,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,499.95
+800,DDR2,1000,2200,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,599.99
+800,DDR2,1000,1700,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,618
+800,DDR2,1000,1600,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,627.97
+800,DDR2,1000,2000,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,649.99
+800,DDR2,2000,1730,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,786.96
+900,DDR2,1000,2000,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,833.27
+900,DDR2,1000,1600,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,843.79
+900,DDR2,1000,1700,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,848
+800,DDR2,2000,2000,AMD Turion 64x2,Fujitsu,NO,YES,NO,NO,YES,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1079
+800,DDR2,2000,1800,AMD Turion 64x2,Fujitsu,NO,YES,NO,NO,YES,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1213.98
+800,DDR2,1000,1600,AMD Turion 64x2,Gateway,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,499.99
+800,DDR2,1000,1600,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,599
+800,DDR2,1000,1600,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,599.99
+800,DDR2,1000,1600,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,623.99
+800,DDR2,1000,2000,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,90,649.99
+800,DDR2,1000,1600,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,649.99
+800,DDR2,1000,1800,AMD Turion 64x2,HP_(Hewlett-Packard),YES,YES,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,724.99
+900,DDR2,1000,1600,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,744.99
+800,DDR2,1000,1600,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,779.99
+900,DDR2,1000,1600,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,795
+900,DDR2,1000,1800,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,799.9
+800,DDR2,1000,1600,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,829.99
+800,DDR2,1000,1900,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,829.99
+900,DDR2,2000,1600,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,939.88
+800,DDR2,2000,1800,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,975
+800,DDR2,1000,1600,AMD Turion 64x2,HP_(Hewlett-Packard),YES,YES,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,997.88
+900,DDR2,1000,1600,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,999.99
+800,DDR2,2000,2200,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1022
+800,DDR2,2000,1900,AMD Turion 64x2,HP_(Hewlett-Packard),YES,YES,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1049.99
+800,DDR2,2000,1800,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1109.99
+900,DDR2,2000,2200,AMD Turion 64x2,HP_(Hewlett-Packard),YES,YES,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1149.99
+800,DDR2,2000,1800,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1299.99
+800,DDR2,1000,1600,AMD Turion 64x2,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,699.99
+800,DDR2,2000,1800,AMD Turion 64x2,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,699.99
+800,DDR2,1000,1800,AMD Turion 64x2,Toshiba,NO,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,779.99
+800,DDR2,1000,1730,Intel Core2 Duo,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,649.99
+800,DDR2,1000,1600,Intel Core2 Duo,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,717.74
+800,DDR2,1000,1730,Intel Core2 Duo,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,749.99
+900,DDR2,1000,2000,Intel Core2 Duo,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,799.99
+800,DDR2,2000,1660,Intel Core2 Duo,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,799.99
+800,DDR2,1000,1600,Intel Core2 Duo,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,899
+800,DDR2,1000,1800,Intel Core2 Duo,Asus,NO,YES,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,1095,1106
+800,DDR2,1000,1660,Intel Core2 Duo,Asus,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,720,1137.98
+768,DDR2,1000,1660,Intel Core2 Duo,Asus,NO,YES,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,720,1186.99
+768,DDR2,1000,2000,Intel Core2 Duo,Asus,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,720,1199.99
+800,DDR2,1000,1800,Intel Core2 Duo,Asus,YES,YES,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,720,1206.62
+800,DDR2,1000,1660,Intel Core2 Duo,Asus,NO,YES,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,720,1248.99
+800,DDR2,1000,1660,Intel Core2 Duo,Asus,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,720,1341.98
+900,DDR2,1000,2000,Intel Core2 Duo,Asus,YES,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,720,1359
+1050,DDR2,1000,2200,Intel Core2 Duo,Asus,NO,YES,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,720,1359.99
+768,DDR2,1000,1660,Intel Core2 Duo,Asus,NO,YES,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1436.79
+1050,DDR2,2000,2200,Intel Core2 Duo,Asus,NO,YES,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,720,1687.99
+900,DDR2,2000,2200,Intel Core2 Duo,Asus,NO,YES,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,720,1745.99
+1200,DDR2,2000,2200,Intel Core2 Duo,Asus,NO,YES,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,720,1869.99
+800,DDR2,1000,1600,Intel Core2 Duo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,848
+800,DDR2,1000,1830,Intel Core2 Duo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,939
+800,DDR2,1000,2000,Intel Core2 Duo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,939
+800,DDR2,2000,2000,Intel Core2 Duo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1099
+800,DDR2,2000,2000,Intel Core2 Duo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1399.99
+800,DDR2,2000,1500,Intel Core2 Duo,Dell,YES,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1499
+800,DDR2,2000,1830,Intel Core2 Duo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1549.99
+800,DDR2,1000,2000,Intel Core2 Duo,Fujitsu,NO,YES,NO,NO,YES,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,949
+800,DDR2,2000,1800,Intel Core2 Duo,Fujitsu,NO,YES,NO,NO,YES,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1199
+900,DDR2,2000,1800,Intel Core2 Duo,Fujitsu,NO,NO,NO,NO,YES,YES,NO,NO,VistaHP:_Vista_Home_Premium,365,1445
+800,DDR2,1000,1600,Intel Core2 Duo,Gateway,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,579
+800,DDR2,1000,1600,Intel Core2 Duo,Gateway,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,90,599.99
+800,DDR2,1000,2000,Intel Core2 Duo,Gateway,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,749.99
+800,DDR2,2000,1600,Intel Core2 Duo,Gateway,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,769.99
+900,DDR2,1000,1600,Intel Core2 Duo,Gateway,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,849.99
+900,DDR2,1000,1660,Intel Core2 Duo,Gateway,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,999.99
+1200,DDR2,2000,2000,Intel Core2 Duo,Gateway,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1399.99
+800,DDR2,2000,1730,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,699
+800,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,699.99
+800,DDR2,1000,1600,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,754.28
+800,DDR2,1000,1730,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,760.37
+800,DDR2,1000,1600,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,783
+800,DDR2,2000,1660,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,895
+800,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),YES,YES,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,944.99
+900,DDR2,2000,1600,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,979.99
+800,DDR2,1000,1730,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,980
+900,DDR2,2000,1660,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,999.99
+800,DDR2,1000,1730,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1012.89
+900,DDR2,2000,1730,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1049.99
+800,DDR2,1000,1730,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1069.99
+800,DDR2,1000,1730,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1069.99
+800,DDR2,2000,1500,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1079.99
+800,DDR2,2000,1500,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1079.99
+800,DDR2,1000,1730,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1119.99
+900,DDR2,2000,1500,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1174.99
+900,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1244
+800,DDR2,2000,1660,Intel Core2 Duo,HP_(Hewlett-Packard),YES,YES,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1299.99
+900,DDR2,2000,1500,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1349
+900,DDR2,2000,1730,Intel Core2 Duo,HP_(Hewlett-Packard),YES,YES,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1379.99
+800,DDR2,2000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1733.6
+800,DDR2,1000,1800,Intel Core2 Duo,Lenovo,NO,YES,NO,NO,YES,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,750
+800,DDR2,1000,1800,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,YES,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,880
+800,DDR2,1000,1600,Intel Core2 Duo,Lenovo,NO,YES,NO,NO,YES,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1005
+800,DDR2,1000,1800,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1009
+1050,DDR2,1000,2000,Intel Core2 Duo,Lenovo,NO,YES,NO,NO,YES,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1040
+800,DDR2,512,1800,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1064
+800,DDR2,512,1800,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1064
+800,DDR2,1000,1800,Intel Core2 Duo,Lenovo,NO,YES,NO,NO,YES,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1119.8
+800,DDR2,512,1800,Intel Core2 Duo,Lenovo,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1189
+800,DDR2,512,1800,Intel Core2 Duo,Lenovo,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1189
+800,DDR2,1000,1600,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,649
+800,DDR2,1000,1730,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,692.95
+800,DDR2,1000,1600,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,754.99
+800,DDR2,1000,1600,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,769
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,819.99
+800,DDR2,1000,1730,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,849
+800,DDR2,1000,1730,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,859
+800,DDR2,1000,1730,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,859
+800,DDR2,1000,1860,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,863.04
+800,DDR2,1000,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,899.95
+800,DDR2,1000,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,907.56
+800,DDR2,1000,1860,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,949.99
+800,DDR2,1000,1860,Intel Core2 Duo,Sony,NO,YES,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,949.99
+800,DDR2,2000,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,995
+800,DDR2,2000,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,999.95
+800,DDR2,2000,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1023.96
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1039
+800,DDR2,1000,1860,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1049
+800,DDR2,1000,1860,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1059
+800,DDR2,1000,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1099
+800,DDR2,1000,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1099
+800,DDR2,1000,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1115.5
+800,DDR2,1000,1800,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1149.99
+800,DDR2,2000,1800,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1159.95
+800,DDR2,2000,1800,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1199.99
+800,DDR2,2000,1800,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1199.99
+800,DDR2,2000,1800,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1248
+800,DDR2,2000,1800,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1248
+800,DDR2,2000,1800,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1249.99
+800,DDR2,2000,1800,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1299.2
+800,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1394.99
+900,DDR2,2000,1800,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1439.95
+800,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1499.89
+800,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1679.95
+900,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1899.99
+900,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1899.99
+800,DDR2,1000,1730,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,90,659.99
+900,DDR2,1000,1600,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,689.95
+800,DDR2,1000,1730,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,786
+900,DDR2,2000,1600,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,YES,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,789.99
+900,DDR2,2000,1860,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,829.81
+800,DDR2,1000,1730,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,835
+800,DDR2,1000,1600,Intel Core2 Duo,Toshiba,NO,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,899
+800,DDR2,2000,1600,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,919.19
+800,DDR2,2000,1730,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,929.99
+800,DDR2,2000,1660,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,949.99
+900,DDR2,2000,1730,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,959
+900,DDR2,1000,1730,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,999.99
+900,DDR2,2000,1660,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,YES,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1049.99
+800,DDR2,2000,1860,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1103
+800,DDR2,2000,1800,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1179
+800,DDR2,2000,1660,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,YES,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1195
+800,DDR2,1000,1660,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,YES,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1199.99
+800,DDR2,2000,1660,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,YES,YES,NO,NO,VistaHP:_Vista_Home_Premium,365,1199.99
+800,DDR2,2000,1730,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1199.99
+900,DDR2,2000,1660,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,YES,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1234.99
+800,DDR2,2000,1800,Intel Core2 Duo,Toshiba,NO,YES,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1252.85
+900,DDR2,2000,2000,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,YES,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1280
+800,DDR2,1000,1200,Intel Core2 Solo,Gateway,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,1099.99
+800,DDR2,1000,1600,Intel Pentium Dual-Core,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,559
+800,DDR2,1000,1730,Intel Pentium Dual-Core,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,629.99
+800,DDR2,1000,1730,Intel Pentium Dual-Core,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,699.99
+800,DDR2,2000,1730,Intel Pentium Dual-Core,Acer,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,749.99
+800,DDR2,1000,1600,Intel Pentium Dual-Core,Dell,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,639.78
+800,DDR2,1000,1600,Intel Pentium Dual-Core,Dell,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,848
+800,DDR2,1000,1860,Intel Pentium Dual-Core,Fujitsu,NO,NO,NO,NO,YES,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,799
+800,DDR2,1000,1600,Intel Pentium Dual-Core,Gateway,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,599.99
+800,DDR2,1000,1600,Intel Pentium Dual-Core,Gateway,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,599.99
+800,DDR2,2000,1600,Intel Pentium Dual-Core,Gateway,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,629
+900,DDR2,1000,1600,Intel Pentium Dual-Core,Gateway,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,699.99
+800,DDR2,1000,1730,Intel Pentium Dual-Core,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,569.99
+800,DDR2,1000,1600,Intel Pentium Dual-Core,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,719.99
+800,DDR2,1000,1730,Intel Pentium Dual-Core,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,784.99
+800,DDR2,1000,1860,Intel Pentium Dual-Core,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,799.99
+800,DDR2,1000,1730,Intel Pentium Dual-Core,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,749
+800,DDR2,1000,1600,Intel Pentium Dual-Core,Sony,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,889.2
+800,DDR2,1000,1730,Intel Pentium Dual-Core,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,599.99
+800,DDR2,1000,1730,Intel Pentium Dual-Core,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,649.99
+900,DDR2,1000,1730,Intel Pentium Dual-Core,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,789.95
+800,DDR2,1000,1860,Intel Pentium Dual-Core,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,826.99
+900,DDR2,1000,1830,Intel Pentium Dual-Core,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,899
+900,DDR2,1000,1730,Intel Pentium Dual-Core,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,VistaHP:_Vista_Home_Premium,365,965
+800,DDR2,2000,1800,AMD Turion 64x2,Acer,YES,YES,YES,YES,NO,NO,NO,NO,VistaUlt:_Vista_Ultimate,365,1474
+1050,DDR2,2000,2000,AMD Turion 64x2,Acer,YES,YES,YES,YES,NO,NO,NO,NO,VistaUlt:_Vista_Ultimate,365,1799.99
+800,DDR2,2000,2000,Intel Core2 Duo,Acer,YES,YES,NO,NO,NO,NO,NO,NO,VistaUlt:_Vista_Ultimate,365,1849
+900,DDR2,2000,2000,Intel Core2 Duo,Fujitsu,NO,NO,NO,NO,YES,YES,NO,NO,VistaUlt:_Vista_Ultimate,365,1848.99
+900,DDR2,2000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,VistaUlt:_Vista_Ultimate,365,1265
+900,DDR2,2000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),NO,YES,YES,YES,NO,NO,NO,NO,VistaUlt:_Vista_Ultimate,365,1558.99
+900,DDR2,1000,2000,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,YES,NO,NO,NO,VistaUlt:_Vista_Ultimate,365,1209.11
+1050,DDR2,2000,2200,Intel Core2 Duo,Lenovo,NO,YES,NO,NO,YES,NO,NO,NO,VistaUlt:_Vista_Ultimate,365,1303
+900,DDR2,2000,2000,Intel Core2 Duo,Lenovo,NO,YES,NO,NO,YES,NO,NO,NO,VistaUlt:_Vista_Ultimate,1095,1522
+768,DDR2,2000,1600,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,YES,NO,NO,YES,VistaUlt:_Vista_Ultimate,1095,1789
+800,DDR2,2000,1660,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,YES,NO,NO,NO,VistaUlt:_Vista_Ultimate,365,779
+768,DDR-SDRAM_(DDRRAM),256,1400,AMD Athlon 64x2 Doble Nucleo,Averatec,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,479.95
+800,DDR-SDRAM_(DDRRAM),512,2200,AMD Athlon 64x2 Doble Nucleo,Gateway,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,499.99
+768,SDRAM,128,1200,AMD Athlon 64x2 Doble Nucleo,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,495
+800,DDR-SDRAM_(DDRRAM),512,2000,AMD Athlon 64x2 Doble Nucleo,HP_(Hewlett-Packard),NO,NO,YES,YES,NO,NO,NO,NO,WinXP,365,499.99
+768,DDR-SDRAM_(DDRRAM),256,1800,AMD Athlon 64x2 Doble Nucleo,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,619.95
+768,SDRAM,256,1330,AMD Athlon 64x2 Doble Nucleo,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,719.2
+768,DDR-SDRAM_(DDRRAM),256,1530,AMD Athlon 64x2 Doble Nucleo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,WinXP,720,799
+800,DDR-SDRAM_(DDRRAM),512,2000,AMD Athlon 64x2 Doble Nucleo,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,928.89
+800,DDR2,512,1800,AMD Mobile Sempron,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,546
+768,DDR-SDRAM_(DDRRAM),256,1600,AMD Mobile Sempron,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,689.99
+800,DDR2,512,1800,AMD Mobile Sempron,Dell,NO,NO,YES,YES,NO,NO,NO,NO,WinXP,1095,599
+800,DDR-SDRAM_(DDRRAM),512,2000,AMD Mobile Sempron,Gateway,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,542.5
+768,DDR-SDRAM_(DDRRAM),512,1800,AMD Mobile Sempron,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,616
+768,DDR-SDRAM_(DDRRAM),512,1800,AMD Mobile Sempron,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,637.27
+800,DDR-SDRAM_(DDRRAM),512,2000,AMD Mobile Sempron,HP_(Hewlett-Packard),YES,NO,NO,NO,NO,NO,NO,NO,WinXP,365,678.95
+800,DDR-SDRAM_(DDRRAM),512,1800,AMD Mobile Sempron,HP_(Hewlett-Packard),NO,NO,NO,YES,NO,NO,NO,NO,WinXP,365,999
+800,DDR-SDRAM_(DDRRAM),512,1800,AMD Mobile Sempron,HP_(Hewlett-Packard),NO,NO,NO,YES,NO,NO,NO,NO,WinXP,365,999
+800,DDR-SDRAM_(DDRRAM),512,1600,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,499.99
+800,DDR-SDRAM_(DDRRAM),1000,1800,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,529.99
+800,DDR2,1000,1600,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,569.99
+800,DDR2,1000,1600,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,589.95
+800,DDR-SDRAM_(DDRRAM),512,1600,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,90,649.95
+800,DDR2,2000,1600,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,689
+800,DDR-SDRAM_(DDRRAM),1000,1800,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,760
+800,DDR-SDRAM_(DDRRAM),512,1600,AMD Turion 64x2,Averatec,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,579.99
+900,DDR2,1000,1600,AMD Turion 64x2,Averatec,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,679.95
+800,DDR2,1000,1600,AMD Turion 64x2,Dell,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,649
+800,DDR2,1000,2000,AMD Turion 64x2,Dell,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,649
+1200,DDR-SDRAM_(DDRRAM),512,2000,AMD Turion 64x2,Fujitsu,YES,NO,YES,YES,NO,NO,NO,NO,WinXP,365,1119.82
+800,DDR2,2000,1670,AMD Turion 64x2,Gateway,NO,NO,YES,YES,NO,NO,NO,NO,WinXP,365,599.99
+800,DDR2,1000,1800,AMD Turion 64x2,Gateway,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,642.39
+800,DDR-SDRAM_(DDRRAM),512,1600,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,WinXP,365,494.81
+800,DDR2,512,1600,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,WinXP,365,523.94
+900,DDR-SDRAM_(DDRRAM),512,1800,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,NO,YES,NO,NO,NO,NO,WinXP,365,529.99
+800,DDR-SDRAM_(DDRRAM),512,1800,AMD Turion 64x2,HP_(Hewlett-Packard),NO,NO,YES,YES,NO,NO,NO,NO,WinXP,365,615.25
+800,DDR2,1000,1600,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,YES,NO,NO,NO,NO,NO,WinXP,365,632.02
+768,DDR-SDRAM_(DDRRAM),512,1800,AMD Turion 64x2,HP_(Hewlett-Packard),NO,NO,YES,YES,NO,NO,NO,NO,WinXP,365,649.95
+900,DDR-SDRAM_(DDRRAM),512,1800,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,NO,YES,NO,NO,NO,NO,WinXP,365,649.97
+800,DDR2,512,2000,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,NO,NO,NO,NO,NO,NO,WinXP,365,650
+800,DDR2,1000,1600,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,NO,YES,NO,NO,NO,NO,WinXP,365,672.95
+800,DDR-SDRAM_(DDRRAM),1024,1800,AMD Turion 64x2,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,727.02
+900,DDR2,1000,1600,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,NO,YES,NO,NO,NO,NO,WinXP,365,754.39
+900,DDR-SDRAM_(DDRRAM),512,1800,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,WinXP,365,979
+800,DDR2,2000,1800,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,NO,YES,NO,NO,NO,NO,WinXP,365,989.89
+800,DDR-SDRAM_(DDRRAM),1024,2000,AMD Turion 64x2,HP_(Hewlett-Packard),YES,NO,NO,YES,NO,NO,NO,NO,WinXP,365,1023.6
+800,DDR2,512,1.6,Intel Celeron,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,498.98
+800,DDR2,512,1460,Intel Celeron,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,565
+800,DDR2,512,1600,Intel Celeron,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,749.62
+900,DDR2,512,1500,Intel Celeron,Acer,YES,NO,NO,NO,NO,NO,NO,NO,WinXP,365,1258.8
+900,DDR2,512,1500,Intel Celeron,Acer,YES,NO,NO,NO,NO,NO,NO,NO,WinXP,365,1580
+768,DDR-SDRAM_(DDRRAM),512,1000,Intel Celeron,Averatec,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,689.95
+800,DDR2,512,1500,Intel Celeron,Dell,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,462.76
+768,DDR-SDRAM_(DDRRAM),256,2200,Intel Celeron,Dell,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,90,549
+768,DDR-SDRAM_(DDRRAM),512,1500,Intel Celeron,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,509.86
+768,DDR-SDRAM_(DDRRAM),256,1300,Intel Celeron,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,524.84
+800,DDR2,512,1730,Intel Celeron,HP_(Hewlett-Packard),YES,NO,NO,NO,NO,NO,NO,NO,WinXP,365,549
+768,DDR-SDRAM_(DDRRAM),256,1400,Intel Celeron,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,554.99
+800,DDR-SDRAM_(DDRRAM),512,1400,Intel Celeron,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,624.95
+800,DDR2,512,1730,Intel Celeron,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,643.6
+768,DDR-SDRAM_(DDRRAM),512,1400,Intel Celeron,HP_(Hewlett-Packard),NO,NO,NO,YES,NO,NO,NO,NO,WinXP,365,663.62
+800,DDR-SDRAM_(DDRRAM),512,1300,Intel Celeron,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,693.95
+800,DDR2,512,1600,Intel Celeron,Lenovo,NO,YES,NO,NO,NO,NO,NO,NO,WinXP,365,699
+800,DDR2,512,1460,Intel Celeron,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,470.43
+768,DDR-SDRAM_(DDRRAM),256,1500,Intel Celeron,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,479
+800,DDR2,512,1600,Intel Celeron,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,484.59
+1024,DDR-SDRAM_(DDRRAM),256,2800,Intel Celeron,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,499
+1024,DDR-SDRAM_(DDRRAM),256,2800,Intel Celeron,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,499
+768,DDR-SDRAM_(DDRRAM),512,1500,Intel Celeron,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,597.26
+768,DDR2,256,1600,Intel Celeron,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,649
+800,DDR2,512,1700,Intel Celeron,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,658.94
+768,DDR-SDRAM_(DDRRAM),256,1500,Intel Celeron,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,790.99
+800,DDR-SDRAM_(DDRRAM),512,1500,Intel Celeron,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,929.99
+800,DDR2,512,1600,Intel Core2 Duo,Acer,NO,YES,NO,NO,NO,NO,NO,NO,WinXP,365,659.95
+800,DDR2,512,1660,Intel Core2 Duo,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,714
+800,DDR2,1000,1660,Intel Core2 Duo,Acer,YES,YES,NO,NO,NO,NO,NO,NO,WinXP,365,1175
+1050,DDR2,2000,2160,Intel Core2 Duo,Acer,YES,YES,NO,NO,NO,NO,NO,NO,WinXP,365,1799
+800,DDR2,1000,1830,Intel Core2 Duo,Asus,YES,NO,NO,NO,NO,NO,NO,NO,WinXP,365,1348.98
+800,DDR2,1000,2000,Intel Core2 Duo,Asus,YES,YES,NO,NO,NO,NO,NO,NO,WinXP,365,1399.99
+768,DDR2,512,1660,Intel Core2 Duo,Asus,NO,YES,NO,NO,NO,NO,NO,NO,WinXP,365,1700
+1050,DDR2,1000,2000,Intel Core2 Duo,Asus,YES,YES,NO,NO,NO,YES,NO,NO,WinXP,720,1749.99
+768,DDR2,512,1660,Intel Core2 Duo,Dell,YES,NO,YES,YES,NO,NO,NO,NO,WinXP,365,749
+768,DDR2,512,1860,Intel Core2 Duo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,754
+800,DDR2,512,1860,Intel Core2 Duo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,754
+768,DDR-SDRAM_(DDRRAM),1000,1660,Intel Core2 Duo,Dell,YES,NO,YES,YES,NO,NO,NO,NO,WinXP,365,779.99
+768,DDR2,512,1660,Intel Core2 Duo,Dell,YES,NO,YES,YES,NO,NO,NO,NO,WinXP,365,818
+800,DDR2,1000,1660,Intel Core2 Duo,Dell,NO,NO,NO,YES,NO,NO,NO,NO,WinXP,365,848
+800,DDR2,512,1800,Intel Core2 Duo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,1095,849
+800,DDR2,1000,1660,Intel Core2 Duo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,899
+900,DDR2,512,1660,Intel Core2 Duo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,949
+800,DDR2,2000,1600,Intel Core2 Duo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,720,999.99
+800,DDR2,1000,2000,Intel Core2 Duo,Dell,NO,NO,YES,YES,NO,NO,NO,NO,WinXP,1095,1008
+800,DDR2,1000,1060,Intel Core2 Duo,Dell,YES,NO,YES,YES,NO,NO,NO,NO,WinXP,1095,1399.99
+800,DDR2,1000,1600,Intel Core2 Duo,Fujitsu,NO,YES,NO,NO,YES,NO,NO,NO,WinXP,365,929
+800,DDR2,1000,1600,Intel Core2 Duo,Fujitsu,NO,YES,NO,NO,YES,NO,NO,NO,WinXP,365,929
+800,DDR2,512,1830,Intel Core2 Duo,Fujitsu,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,1399
+800,DDR2,2000,1830,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,WinXP,365,645
+800,DDR2,1000,1600,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,739
+800,DDR2,1000,1600,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,WinXP,365,998.99
+800,DDR2,1000,1600,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,NO,NO,NO,NO,NO,NO,WinXP,365,1048.99
+900,DDR2,2000,1660,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,WinXP,365,1145
+900,DDR2,2000,1660,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,YES,YES,NO,NO,NO,NO,WinXP,365,1379.99
+800,DDR2,1000,1660,Intel Core2 Duo,Lenovo,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,739.21
+768,DDR2,512,1660,Intel Core2 Duo,Lenovo,YES,NO,YES,YES,NO,NO,NO,NO,WinXP,1095,1095
+800,DDR2,1000,1600,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,679
+800,DDR2,1000,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,WinXP,365,727.93
+800,DDR2,1000,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,WinXP,365,735
+800,DDR2,1000,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,WinXP,365,944.96
+800,DDR2,1000,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,WinXP,365,949.95
+800,DDR2,1000,1600,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,1019
+800,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,WinXP,365,1037.99
+900,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP,365,1049
+900,DDR2,1000,1660,Intel Core2 Duo,Sony,NO,NO,NO,YES,NO,NO,NO,NO,WinXP,365,1049.95
+800,DDR2,2000,1830,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,WinXP,365,1094
+900,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,WinXP,365,1099
+900,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP,365,1299
+800,DDR2,1000,1660,Intel Core2 Duo,Sony,NO,YES,YES,NO,NO,NO,NO,NO,WinXP,365,1499
+1200,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP,365,1699.99
+900,DDR2,1000,1600,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,YES,NO,NO,NO,WinXP,365,599
+800,DDR2,512,1600,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,619.99
+800,DDR2,512,1600,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,689.95
+800,DDR2,1500,1600,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,693.68
+768,DDR2,1000,1600,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,725
+800,DDR2,1000,1660,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,814.99
+800,DDR2,1000,1660,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,828
+800,DDR2,2048,1830,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,839.2
+800,DDR2,1000,1600,Intel Core2 Duo,Toshiba,NO,YES,NO,NO,NO,NO,NO,NO,WinXP,365,841.36
+800,DDR2,1000,1830,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,YES,NO,NO,NO,WinXP,365,850
+900,DDR2,1000,1600,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,898.8
+800,DDR2,2000,1600,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,949.99
+900,DDR2,1000,1660,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,YES,NO,NO,NO,WinXP,365,950
+900,DDR2,2000,1600,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,YES,NO,NO,NO,WinXP,365,951.6
+900,DDR2,2000,1600,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,YES,NO,NO,NO,WinXP,365,975
+800,DDR2,1000,1660,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,989
+1200,DDR2,1000,2000,Intel Core2 Duo,Toshiba,NO,YES,NO,NO,YES,NO,NO,NO,WinXP,365,1595
+800,DDR2,512,1660,Intel Core2 Solo,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,945.6
+800,DDR2,512,1660,Intel Core2 Solo,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,945.6
+800,DDR2,512,1660,Intel Core2 Solo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,1095,729
+800,DDR2,512,1660,Intel Core2 Solo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,795.99
+900,DDR2,512,1660,Intel Core2 Solo,Dell,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,998.95
+800,DDR2,512,1860,Intel Core2 Solo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,499
+800,DDR2,512,1860,Intel Core2 Solo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,645
+900,DDR2,2000,1730,Intel Pentium Dual-Core,Dell,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,949
+1200,DDR2,2000,1730,Intel Pentium Dual-Core,Dell,NO,NO,NO,NO,NO,NO,NO,NO,WinXP,365,949
+800,DDR-SDRAM_(DDRRAM),512,1800,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,760
+800,DDR2,1000,1600,AMD Turion 64x2,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,832
+800,DDR2,1000,1800,AMD Turion 64x2,Acer,YES,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1199.97
+1050,DDR-SDRAM_(DDRRAM),1000,2000,AMD Turion 64x2,Acer,YES,YES,YES,NO,NO,NO,NO,NO,WinXP_Pro,365,1899
+900,DDR-SDRAM_(DDRRAM),512,1600,AMD Turion 64x2,Averatec,NO,NO,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,499.99
+1050,DDR2,1000,1800,AMD Turion 64x2,HP_(Hewlett-Packard),NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,771.83
+1050,DDR-SDRAM_(DDRRAM),1000,1800,AMD Turion 64x2,HP_(Hewlett-Packard),NO,YES,NO,NO,YES,NO,NO,NO,WinXP_Pro,1095,1011.5
+1050,DDR-SDRAM_(DDRRAM),1000,1800,AMD Turion 64x2,HP_(Hewlett-Packard),NO,YES,NO,NO,YES,NO,NO,NO,WinXP_Pro,1095,1327.66
+800,DDR2,512,1860,Intel Celeron,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,578
+768,DDR-SDRAM_(DDRRAM),256,2800,Intel Celeron,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,825
+800,DDR2,512,1860,Intel Celeron,Lenovo,NO,NO,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,693
+768,DDR2,512,1500,Intel Celeron,Lenovo,NO,NO,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,754.98
+768,DDR-SDRAM_(DDRRAM),256,1400,Intel Celeron,Lenovo,NO,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,1095,1174
+768,DDR-SDRAM_(DDRRAM),256,1500,Intel Celeron,Toshiba,NO,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,749
+800,DDR2,512,1730,Intel Core2 Duo,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,665
+800,DDR2,1000,2000,Intel Core2 Duo,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,699.99
+800,DDR2,1000,1660,Intel Core2 Duo,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,749.95
+800,DDR2,1000,1660,Intel Core2 Duo,Acer,NO,NO,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,794
+800,DDR2,1000,1660,Intel Core2 Duo,Acer,YES,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,975
+800,DDR2,1000,2000,Intel Core2 Duo,Acer,YES,NO,NO,NO,YES,NO,NO,NO,WinXP_Pro,365,997.92
+800,DDR2,1000,1660,Intel Core2 Duo,Acer,YES,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1037.78
+1050,DDR2,1000,1660,Intel Core2 Duo,Acer,YES,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1331
+800,DDR2,2000,1660,Intel Core2 Duo,Acer,YES,YES,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,1428.9
+1050,DDR2,2000,2000,Intel Core2 Duo,Acer,YES,YES,YES,NO,NO,NO,NO,NO,WinXP_Pro,365,1599
+900,DDR2,1000,2000,Intel Core2 Duo,Asus,YES,YES,NO,NO,NO,NO,NO,NO,WinXP_Pro,720,1449
+1200,DDR2,1000,1660,Intel Core2 Duo,Fujitsu,YES,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1269
+768,DDR2,1000,2000,Intel Core2 Duo,Fujitsu,YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1379
+800,DDR2,1000,1800,Intel Core2 Duo,Fujitsu,YES,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1439
+800,DDR2,1000,1800,Intel Core2 Duo,Fujitsu,YES,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1439
+800,DDR2,1000,1800,Intel Core2 Duo,Fujitsu,YES,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1439
+768,DDR2,1000,2000,Intel Core2 Duo,Fujitsu,YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1669
+800,DDR2,512,1200,Intel Core2 Duo,Gateway,NO,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,899
+800,DDR2,1000,1830,Intel Core2 Duo,HP_(Hewlett-Packard),YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,795
+800,DDR2,1000,1830,Intel Core2 Duo,HP_(Hewlett-Packard),YES,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,1095,820.13
+800,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,845
+768,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,849
+1050,DDR2,1000,1830,Intel Core2 Duo,HP_(Hewlett-Packard),NO,YES,YES,NO,NO,NO,NO,NO,WinXP_Pro,365,868.43
+800,DDR2,1000,1830,Intel Core2 Duo,HP_(Hewlett-Packard),YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,868.43
+800,DDR2,1000,1830,Intel Core2 Duo,HP_(Hewlett-Packard),YES,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,1095,899.95
+768,DDR2,1000,1830,Intel Core2 Duo,HP_(Hewlett-Packard),YES,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,1095,900
+768,DDR2,512,1660,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,916.75
+800,DDR2,1000,1830,Intel Core2 Duo,HP_(Hewlett-Packard),YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,939
+800,DDR2,2000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,939.77
+900,DDR2,512,1660,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,NO,NO,YES,NO,NO,NO,WinXP_Pro,365,949
+800,DDR2,1000,1830,Intel Core2 Duo,HP_(Hewlett-Packard),YES,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,1095,965.03
+800,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,981.8
+800,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,999.95
+1050,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),NO,YES,NO,NO,NO,NO,NO,NO,WinXP_Pro,1095,1035
+800,DDR2,1000,1830,Intel Core2 Duo,HP_(Hewlett-Packard),NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1060.4
+900,DDR2,2000,1660,Intel Core2 Duo,HP_(Hewlett-Packard),YES,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1099.95
+800,DDR2,1000,1200,Intel Core2 Duo,HP_(Hewlett-Packard),NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1099.95
+1050,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1109.93
+1050,DDR2,1000,2160,Intel Core2 Duo,HP_(Hewlett-Packard),NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1145
+1050,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1158.23
+800,DDR2,512,1660,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1164.12
+800,DDR2,512,1660,Intel Core2 Duo,HP_(Hewlett-Packard),YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1168
+1050,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),NO,YES,YES,NO,YES,NO,NO,NO,WinXP_Pro,1095,1180
+1050,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,YES,NO,YES,NO,NO,NO,WinXP_Pro,1095,1245
+1050,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1245
+1050,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1245
+1050,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1299
+800,DDR2,1000,1830,Intel Core2 Duo,HP_(Hewlett-Packard),YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1299.95
+1050,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,YES,NO,YES,NO,NO,NO,WinXP_Pro,1095,1369
+1050,DDR2,1000,2160,Intel Core2 Duo,HP_(Hewlett-Packard),NO,YES,NO,NO,YES,NO,NO,NO,WinXP_Pro,1095,1445
+800,DDR2,512,1660,Intel Core2 Duo,HP_(Hewlett-Packard),NO,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1595
+1050,DDR2,2000,2160,Intel Core2 Duo,HP_(Hewlett-Packard),NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1737.83
+1050,DDR2,1000,2000,Intel Core2 Duo,HP_(Hewlett-Packard),NO,YES,YES,YES,NO,NO,NO,YES,WinXP_Pro,720,1844
+800,DDR2,512,1500,Intel Core2 Duo,Lenovo,NO,NO,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,779
+768,DDR2,512,1660,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,838.22
+1050,DDR2,1000,2000,Intel Core2 Duo,Lenovo,NO,YES,NO,NO,YES,NO,NO,NO,WinXP_Pro,365,845
+800,DDR2,512,1660,Intel Core2 Duo,Lenovo,NO,YES,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,849.99
+900,DDR2,512,1830,Intel Core2 Duo,Lenovo,YES,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,899
+800,DDR2,1000,1500,Intel Core2 Duo,Lenovo,NO,YES,NO,NO,YES,NO,NO,NO,WinXP_Pro,365,922
+768,DDR2,512,1660,Intel Core2 Duo,Lenovo,NO,NO,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,929
+800,DDR2,512,1660,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,947.04
+768,DDR2,512,1660,Intel Core2 Duo,Lenovo,NO,NO,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,990
+900,DDR2,1000,1800,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,994
+900,DDR2,1000,1800,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,994
+768,DDR2,512,1660,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1008.85
+800,DDR2,512,1660,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1058.49
+800,DDR2,512,1660,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1060.01
+900,DDR2,1000,2000,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1083
+1050,DDR2,1000,2000,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,1095,1145
+1050,DDR2,1000,2000,Intel Core2 Duo,Lenovo,YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1165
+768,DDR2,512,1830,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,1095,1170
+768,DDR2,512,1660,Intel Core2 Duo,Lenovo,YES,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1173.98
+1050,DDR2,1000,2000,Intel Core2 Duo,Lenovo,YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1199.99
+1050,DDR2,512,1830,Intel Core2 Duo,Lenovo,NO,YES,YES,NO,YES,NO,NO,NO,WinXP_Pro,1095,1299
+1050,DDR2,1000,2000,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1309
+768,DDR2,512,1830,Intel Core2 Duo,Lenovo,YES,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,1095,1323.77
+768,DDR2,512,1830,Intel Core2 Duo,Lenovo,YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1340
+768,DDR2,512,1830,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1355
+768,DDR2,512,1660,Intel Core2 Duo,Lenovo,YES,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1385
+768,DDR2,512,1830,Intel Core2 Duo,Lenovo,YES,YES,YES,NO,YES,NO,NO,NO,WinXP_Pro,365,1399
+768,DDR2,512,1830,Intel Core2 Duo,Lenovo,YES,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,1095,1406
+768,DDR2,1000,1830,Intel Core2 Duo,Lenovo,YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1410
+768,DDR2,512,1830,Intel Core2 Duo,Lenovo,YES,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1419
+768,DDR2,512,1830,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1435
+1050,DDR2,512,1830,Intel Core2 Duo,Lenovo,YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1519
+1050,DDR2,1000,2000,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1548
+1050,DDR2,512,1830,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1549.95
+768,DDR2,512,1830,Intel Core2 Duo,Lenovo,YES,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1610
+1050,DDR2,2000,2000,Intel Core2 Duo,Lenovo,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1635
+1050,DDR2,1000,2000,Intel Core2 Duo,Lenovo,YES,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1689.09
+1050,DDR2,1000,2000,Intel Core2 Duo,Lenovo,YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1712.99
+768,DDR2,1000,1830,Intel Core2 Duo,Lenovo,YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1732.45
+1050,DDR2,1000,2000,Intel Core2 Duo,Lenovo,YES,YES,YES,NO,YES,NO,NO,NO,WinXP_Pro,1095,1737
+768,DDR2,512,1660,Intel Core2 Duo,Lenovo,NO,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1752.47
+1050,DDR2,1000,2000,Intel Core2 Duo,Lenovo,YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1834.99
+768,DDR-SDRAM_(DDRRAM),1000,1660,Intel Core2 Duo,Lenovo,YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1878
+1200,DDR2,1000,2000,Intel Core2 Duo,Lenovo,YES,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,1889
+800,DDR2,1000,1800,Intel Core2 Duo,Panasonic,NO,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,1095,1606.4
+800,DDR2,512,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,649
+800,DDR2,512,1660,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,679
+800,DDR2,1000,1800,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1021.14
+800,DDR2,1000,2160,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1059.95
+800,DDR2,512,1660,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1084
+800,DDR2,512,1660,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,1090
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1135.37
+800,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1139.99
+800,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1139.99
+800,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1168
+768,DDR2,512,1660,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1185
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,NO,YES,NO,NO,NO,NO,WinXP_Pro,365,1192.99
+768,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1221
+800,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1243.95
+800,DDR2,512,1660,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1261
+800,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,NO,YES,YES,NO,NO,NO,WinXP_Pro,365,1268.1
+1050,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1289
+768,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1291
+1050,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1293.42
+800,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1328
+800,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1328.63
+800,DDR2,512,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1329.95
+768,DDR2,1000,1660,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1343.99
+768,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1359
+800,DDR2,512,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1359.95
+768,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1369
+800,DDR2,2000,1660,Intel Core2 Duo,Sony,NO,NO,NO,YES,NO,NO,NO,NO,WinXP_Pro,365,1369
+768,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1378
+800,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,NO,NO,NO,YES,NO,NO,NO,WinXP_Pro,365,1396.79
+800,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1399
+800,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1399.95
+1050,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1405.27
+800,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1415
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1419.95
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,NO,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,1427.76
+768,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1433
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1449.44
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1449.95
+800,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1465
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1498
+1050,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1509
+768,DDR2,1000,2130,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1518.6
+1050,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1521.64
+800,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1545
+800,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1560
+800,DDR2,1000,2160,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1595
+1050,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,NO,NO,YES,NO,NO,NO,WinXP_Pro,365,1616.21
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1619
+800,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,YES,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,1649
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1649.95
+800,DDR2,1000,2160,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1649.95
+800,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,NO,NO,YES,NO,NO,NO,WinXP_Pro,365,1649.99
+1200,DDR2,512,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1658
+1050,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1663
+800,DDR2,1000,2160,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1695
+1050,DDR2,1000,2130,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1699
+800,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1699.2
+800,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1699.95
+1050,DDR2,1000,2130,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1739.34
+1200,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1808.95
+800,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1810.63
+1050,DDR2,1000,2130,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1819
+800,DDR2,2000,2330,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1830.89
+1200,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1836.95
+1200,DDR2,1000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1854.09
+800,DDR2,2000,2160,Intel Core2 Duo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1876.51
+800,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,1898
+800,DDR2,2000,2000,Intel Core2 Duo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1899
+800,DDR2,1000,1830,Intel Core2 Duo,Sony,NO,YES,NO,YES,YES,NO,NO,NO,WinXP_Pro,365,1909.99
+800,DDR2,512,1660,Intel Core2 Duo,Toshiba,NO,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,890
+800,DDR2,512,1660,Intel Core2 Duo,Toshiba,NO,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,890
+800,DDR2,1000,1660,Intel Core2 Duo,Toshiba,NO,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,909
+800,DDR2,512,1660,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,YES,NO,NO,NO,WinXP_Pro,365,942
+800,DDR2,512,1830,Intel Core2 Duo,Toshiba,YES,NO,YES,NO,NO,NO,NO,NO,WinXP_Pro,365,945
+800,DDR2,1000,1830,Intel Core2 Duo,Toshiba,NO,YES,NO,NO,YES,NO,NO,NO,WinXP_Pro,365,1008.55
+800,DDR2,512,1660,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,YES,NO,NO,NO,WinXP_Pro,365,1041.25
+800,DDR2,1000,2000,Intel Core2 Duo,Toshiba,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1058
+768,DDR2,512,1660,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,YES,NO,NO,NO,WinXP_Pro,365,1082.9
+800,DDR2,1000,1660,Intel Core2 Duo,Toshiba,NO,NO,YES,NO,YES,NO,NO,NO,WinXP_Pro,365,1201.9
+768,DDR-SDRAM_(DDRRAM),512,1830,Intel Core2 Duo,Toshiba,NO,NO,YES,NO,NO,NO,NO,NO,WinXP_Pro,1095,1287.6
+768,DDR2,1000,1830,Intel Core2 Duo,Toshiba,NO,YES,NO,NO,YES,NO,NO,NO,WinXP_Pro,1095,1331.1
+800,DDR2,1000,1830,Intel Core2 Duo,Toshiba,NO,NO,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,1360
+800,DDR2,1000,1830,Intel Core2 Duo,Toshiba,YES,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1374.45
+768,DDR2,512,1830,Intel Core2 Duo,Toshiba,NO,NO,YES,NO,NO,NO,NO,NO,WinXP_Pro,1095,1600
+800,DDR2,1000,1200,Intel Core2 Solo,HP_(Hewlett-Packard),NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,868.43
+800,DDR2,1000,1200,Intel Core2 Solo,HP_(Hewlett-Packard),NO,NO,YES,YES,YES,NO,NO,NO,WinXP_Pro,1095,899.95
+800,DDR2,512,1660,Intel Core2 Solo,HP_(Hewlett-Packard),NO,NO,YES,NO,NO,NO,NO,NO,WinXP_Pro,365,952
+768,DDR2,512,1660,Intel Core2 Solo,HP_(Hewlett-Packard),NO,NO,NO,NO,YES,NO,NO,NO,WinXP_Pro,1095,1065.05
+768,DDR2,256,1660,Intel Core2 Solo,Lenovo,NO,NO,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1082
+600,DDR2,512,1200,Intel Core2 Solo,Sony,NO,YES,NO,YES,NO,NO,NO,NO,WinXP_Pro,365,839
+600,DDR2,1000,1200,Intel Core2 Solo,Sony,NO,YES,NO,YES,YES,NO,NO,NO,WinXP_Pro,365,1024.89
+768,DDR2,1000,1200,Intel Core2 Solo,Sony,NO,YES,YES,YES,YES,NO,NO,NO,WinXP_Pro,365,1445
+768,DDR2,1000,1200,Intel Core2 Solo,Sony,NO,YES,NO,NO,NO,NO,NO,NO,WinXP_Pro,365,1619.95
+768,DDR2,2000,1200,Intel Core2 Solo,Sony,NO,YES,YES,YES,NO,NO,NO,NO,WinXP_Pro,365,1645
+800,DDR2,512,1660,Intel Core2 Solo,Toshiba,NO,NO,YES,NO,NO,NO,NO,NO,WinXP_Pro,365,795

@@ -1,0 +1,168 @@
+###################################################################
+# Decision Tree Tutorial - Continuous Variable
+###################################################################
+
+# Set working Directory 
+
+setwd("C:/Users/Derek/Documents/RPackages/Decision Tree/") 
+
+# Load Libraries
+
+library(caret)
+library(rpart)
+library(rpart.plot)
+library(C50)
+library(rattle)
+library(party)
+library(partykit)
+library(RWeka)
+library(randomForest)
+library(ROCR)
+
+
+# Load the data
+
+laptop <- read.csv("laptop.csv")
+
+
+mydata <- laptop
+
+##################################################################
+
+# This code will split the dataset into a train and test set.
+# We will use a 70% training & 30% testing split here. prob=c(0.7, 0.3))
+
+set.seed(1234)
+ind <- sample(2, nrow(mydata), replace=TRUE, prob=c(0.7, 0.3))
+trainData <- mydata[ind==1,]
+testData <- mydata[ind==2,]
+
+
+##################################################################
+# CART model building 
+##################################################################
+
+fit <- rpart(Price~.,method="anova", data=trainData)
+
+printcp(fit) # display the results 
+plotcp(fit) # visualize cross-validation results 
+summary(fit) # detailed summary of splits
+
+# plot tree 
+
+plot(fit, uniform=TRUE, 
+     main="Classification Tree for Laptop")
+text(fit, use.n=TRUE, all=TRUE, cex=.8)
+
+# This will give the actual labels.
+#text(fit, pretty=1, use.n=TRUE, all=TRUE, cex=.8)
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Prune the Decision Tree
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+pfit<- prune(fit, cp=fit$cptable[which.min(fit$cptable[,"xerror"]),"CP"])
+
+# This code will prune based on the specified cp value.
+# Ex. cp = 0.043 will produce a tree of size 3.
+# pfit<- prune(fit, cp=0.043)
+
+
+# plot the pruned tree 
+plot(pfit, uniform=TRUE, 
+     main="Pruned Classification Tree for Laptop")
+text(pfit, use.n=TRUE, all=TRUE, cex=.8)
+
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Fancy plot of the decision tree with Rattle
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+fancyRpartPlot(pfit)
+# fancyRpartPlot(fit)
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Build a RPART decision tree using the party package
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+party.pfit <- as.party(pfit)
+plot(party.pfit)
+
+# party.fit <- as.party(fit)
+# plot(party.fit)
+
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# Prediction
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+testData$Predict <- predict(fit, testData, type="vector")
+
+confusionMatrix(fit_testing, testData$Price)
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# ROC for unpruned model
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+testData$YHat <- predict(fit, testData, type="prob")
+
+fit.scores <- prediction(testData$YHat[,2], testData$Class)
+fit.perf <- performance(fit.scores, "tpr", "fpr")
+
+# Plot the ROC curve
+
+plot(fit.perf, col = "green", lwd = 1.5)
+abline(0,1,col="Red")
+
+# AUC for the decision tree
+
+fit.auc <- performance(fit.scores, "auc")
+fit.auc
+
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# ROC for pruned model
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+testData$YHat <- predict(pfit, testData, type="prob")
+
+pfit.scores <- prediction(testData$YHat[,2], testData$Class)
+pfit.perf <- performance(pfit.scores, "tpr", "fpr")
+
+# Plot the ROC curve
+
+plot(pfit.perf, col = "green", lwd = 1.5)
+abline(0,1,col="Red")
+
+# AUC for the decision tree
+
+pfit.auc <- performance(pfit.scores, "auc")
+pfit.auc
+
+
+##################################################################
+# Random Forest Modeling
+##################################################################
+
+
+# Build the random forest model
+
+RandomForestModel <- randomForest(Price~., data=trainData, ntree=500, mtry=5, importance=TRUE)
+print(RandomForestModel)
+importance(RandomForestModel)
+
+plot.new()
+plot(RandomForestModel, log="y")
+varImpPlot(RandomForestModel)
+
+plot.new()
+varImpPlot(RandomForestModel, type=1, pch=19, col=1, cex=1.0, main="")
+abline(v=13, col="blue")
+
+varImpPlot(RandomForestModel, type=2, pch=19, col=1, cex=1.0, main="")
+abline(v=35, col="blue")
+
+##################################################################
+# Predict with RF Model
+##################################################################
+
+testData$RFPredict <- predict(RandomForestModel, testData)
