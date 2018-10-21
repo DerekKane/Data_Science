@@ -1,0 +1,141 @@
+
+library(lpSolveAPI);
+
+PriceOpt<-function(tab, SKUs, CurrVol, CurrPrice, CurrProfit, minPriceLvl, maxPriceLvl, Obj){
+  
+  
+  
+  tab<-data.frame(Part=eval(parse(text=paste0('tab$',SKUs))), 
+                  Curr.Vol=eval(parse(text=paste0('tab$',CurrVol))),
+                  Curr.Price=eval(parse(text=paste0('tab$',CurrPrice))), 
+                  Curr.Profit=eval(parse(text=paste0('tab$',CurrProfit))), 
+                  Max.price=eval(parse(text=paste0('tab$',CurrPrice)))*1.1
+  );
+  
+  
+  
+  numProds=length(tab$Curr.Price);
+  
+  #calculate min price
+  minp=tab$Curr.Price;
+  for(i in 1:numProds){
+    if(minp[i]*0.9<(1-tab$Curr.Profit[i])*minp[i]){minp[i]<-(1-tab$Curr.Profit[i])*minp[i]}
+    else{minp[i]<-minp[i]*0.9}
+    
+  };
+  
+  
+  tab$Min.price<-minp;
+  
+  
+  #Create constraing labels
+  ProdVec=seq(from = 1,  to = numProds, by = 1);
+  L_const_names = paste(ProdVec, "Lower Constraint");
+  U_const_names = paste(ProdVec, "Upper Constraint");
+  L_const_names = c(L_const_names, "Overall Lower");
+  U_const_names = c(U_const_names, "Overall Upper");
+  NumConstraints=2*numProds+2;
+  #build empty RowNames Vector
+  RowNames<-vector(mode="character", length=NumConstraints);
+  
+  #assign constraing Names
+  for (i in 1:NumConstraints) {
+    if (i%%2 == 0){
+      RowNames[i]=U_const_names[i/2]
+    } else{
+      RowNames[i]=L_const_names[floor(i/2)+1]
+    }
+    
+  }
+  
+  
+  
+  lprecH <- make.lp(0, dim(tab)[1]);
+  set.objfn(lprecH, tab$Curr.Vol);
+  
+  #add max and min price by part constraints
+  for (i in 1:dim(tab)[1] ) {
+    vec<-seq(1, dim(tab)[1] )*0
+    vec[i]=1
+    add.constraint(lprecH, vec, ">=", tab$Min.price[i])
+    add.constraint(lprecH, vec, "<=", tab$Max.price[i])
+  };
+  
+  
+  overallmax=sum(tab$Curr.Price*tab$Curr.Vol)*(1+as.numeric(maxPriceLvl));
+  overallmin=sum(tab$Curr.Price*tab$Curr.Vol)*(1+as.numeric(minPriceLvl));
+  
+  
+  #overall price change constraint = between 3 and 4%
+  add.constraint(lprecH, tab$Curr.Vol, "<=", overallmax);
+  add.constraint(lprecH, tab$Curr.Vol, ">=", overallmin);
+  
+  
+  
+  lp.control(lprecH,sense=Obj);
+  
+  
+  ColNames<-paste("Product", ProdVec);
+  
+  dimnames(lprecH) <- list(RowNames, ColNames);
+  
+  #print(lprecH)
+  
+  
+  solve(lprecH);
+  get.objective(lprecH);
+  get.variables(lprecH);
+  write.lp(lprecH,'C:\\modelH.lp',type='lp');
+  
+  
+  
+  par(mfrow=c(3,2));
+  #plot old and new total revenue
+  #par(mfrow=c(1,1));
+  rev<-c(sum(tab$Curr.Price*tab$Curr.Vol), get.objective(lprecH));
+  bp<-barplot(rev, main="Overall Revenue Change",  names=c("Current", "Proposed"), horiz=TRUE,
+              xlab=paste("overall revenue change: ", sprintf("%.2f%%", (rev[2]/rev[1]-1)*100)));
+  text(bp, 0, sprintf("$%.2f",rev), horiz=TRUE, cex=1, pos=3);
+  
+  
+  currrevbypart<-tab$Curr.Price*tab$Curr.Vol
+  proprevbypart<-get.variables(lprecH)*tab$Curr.Vol
+  barplot(as.matrix(cbind(currrevbypart, proprevbypart)), col=rainbow(numProds), horiz=TRUE, main="Overall Revenue Change by SKU",
+        names=c("Current", "Proposed"), xlab=paste("overall revenue change: ", sprintf("%.2f%%", (rev[2]/rev[1]-1)*100)))
+  legend("center", fill=rainbow(numProds), horiz=TRUE, title="SKU", legend=tab$Part)
+  
+  
+  #plot old price by SKU
+  #partname<-matrix(seq(from = 1,  to = numProds, by = 1), nrow=10, ncol=1);
+  partname<-matrix(tab$Part);
+  pricebypartcurr<- tab$Curr.Price;
+  pricebypartprop<-get.variables(lprecH);
+  pricebypart<-c(pricebypartcurr, pricebypartprop);
+  #par(mfrow=c(2,1));
+    bp2curr<-barplot(pricebypartcurr, main="Price by SKU--Current", names=c(partname), xlab="SKU Number", col=rainbow(numProds));
+  text(bp2curr, 0, sprintf("$%.2f", pricebypartcurr), cex=1, pos=3);
+  
+  
+  #plot price change by SKU
+  
+  pricechgbypart<-c(pricebypartprop-pricebypartcurr);
+  bp3<-barplot(pricechgbypart, main="Price Change by SKU ($)", names=c(partname), xlab="SKU Number", col=rainbow(numProds));
+  text(bp3, 0, sprintf("$%.2f", pricechgbypart), cex=1, pos=3);
+  
+
+  #plot new price by SKU
+
+  bp2prop<-barplot(pricebypartprop,  names=c(partname), main="Price by SKU--Proposed", xlab="SKU Number", col=rainbow(numProds));
+  text(bp2prop, 0, sprintf("$%.2f", pricebypartprop), cex=1, pos=3);
+  
+  
+  #plot pct price change by SKU
+  pricechgbypart2<-c((pricebypartprop/pricebypartcurr-1)*100);
+  bp4<-barplot(pricechgbypart2, main="Price Change by SKU (%)", names=c(partname), xlab="SKU Number", col=rainbow(numProds));
+  text(bp4, 0, sprintf("%.0f%%", pricechgbypart2), cex=1, pos=3);
+  
+  print(rev);
+  
+  out<-cbind(tab, get.variables(lprecH));
+  return(list(output=out, model=lprecH));
+}
