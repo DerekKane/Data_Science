@@ -1,0 +1,10 @@
+# Execute this script in R to load: source("export_csv_file.txt")
+# This is a sample script to export as a csv the table: trees
+# trees is a standard dataset and can be accesed through data(trees) 
+
+write.csv(trees, file = "trees.csv")
+
+
+# This will remove the row names: write.csv(trees, file = "trees.csv",row.names=FALSE)
+# This will remove the row names and the NA: write.csv(trees, file = "trees.csv",row.names=FALSE, na="")
+# This will remove the row/column names and add a comma: write.csv(trees, file = "trees.csv",row.names=FALSE, na="",column.names=FALSE)

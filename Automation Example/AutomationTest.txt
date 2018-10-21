@@ -1,0 +1,5 @@
+# This R Script will pull from 2 other R scripts to create a csv file.
+# This script will be used for an automation test: source("AutomationTest.txt") 
+
+source("C:\\Users\\kane.de\\Documents\\RPackages\\tree_example.txt")
+source("C:\\Users\\kane.de\\Documents\\RPackages\\export_csv_file.txt")

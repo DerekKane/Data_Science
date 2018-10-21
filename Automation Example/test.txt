@@ -1,0 +1,2 @@
+cat('this is my R script executing\n', format(Sys.Date()))
+
